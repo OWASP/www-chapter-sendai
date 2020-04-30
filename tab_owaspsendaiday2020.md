@@ -27,9 +27,7 @@ OWASP Sendai発足4周年とローカルチャプターミーティング通算4
 
 ### ゴールドスポンサー
 
-* 株式会社セキュリティイニシアティブ
-
-[<img src="assets/images/securityinitiative.png" width="200px">](https://security-initiative.co.jp)
+[<img src="assets/images/securityinitiative.png" height="100px">](https://security-initiative.co.jp)
 
 
 ### シルバースポンサー
@@ -37,21 +35,13 @@ OWASP Sendai発足4周年とローカルチャプターミーティング通算4
 
 ### ブロンズスポンサー
 
-[<img src="http://drive.google.com/uc?export=view&id=1GVCE1_bgei5oiIe_f3PQ9lOxrN986f_e" width="200px">](https://www.facebook.com/extechSendai)
+[<img src="http://drive.google.com/uc?export=view&id=1GVCE1_bgei5oiIe_f3PQ9lOxrN986f_e" height="100px">](https://www.facebook.com/extechSendai)
 
-株式会社エクテック
+[<img src="http://drive.google.com/uc?export=view&id=1Aihc8gc9LoYipr__ALRq6FPKSc3B3STa" height="100px"](https://sria.co.jp/)
 
-[<img src="http://drive.google.com/uc?export=view&id=1Aihc8gc9LoYipr__ALRq6FPKSc3B3STa" width="200px">](https://sria.co.jp/)
+[<img src="http://drive.google.com/uc?export=view&id=1X7LYxTzXpaMkTauwJPHHouCA8Skhrw1Q" height="100px">](https://zeusec.co.jp/)
 
-株式会社SRIA
-
-[<img src="http://drive.google.com/uc?export=view&id=1X7LYxTzXpaMkTauwJPHHouCA8Skhrw1Q" width="200px">](https://zeusec.co.jp/)
-
-株式会社Zeusec
-
-[<img src="https://www.owasp.org/images/6/62/Sendai_logo_rapic_204x60.jpg" width="200px">](http://rapic.jp/)
-
-株式会社RAPiC
+[<img src="https://www.owasp.org/images/6/62/Sendai_logo_rapic_204x60.jpg" height="100px">](http://rapic.jp/)
 
 ### キーノートスピーカーのみなさま(50音順)
 Soya Aoyama (@SoyaAoyama) / 富士通システム統合研究所
