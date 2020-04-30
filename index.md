@@ -17,6 +17,7 @@ auto-migrated: 1
 ## OWASP 仙台
 
 OWASP Sendaiへようこそ。
+
 イベント開催等の情報はメーリングリストやSNSにて配信しております。メーリングリストへのご登録をおすすめします。
 \*[メーリングリスト](https://lists.owasp.org/mailman/listinfo/owasp-sendai)
 \*[FACEBOOKページ](https://www.facebook.com/owaspsendai/)
