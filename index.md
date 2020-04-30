@@ -6,8 +6,6 @@ level: 0
 region: Asia/Pacific
 ---
 
-![OWASPSendaiLogo](logo_owasp_sendai.jpg "OWASPSendaiLogo")
-
 ## OWASP Sendaiへようこそ
 
 イベント開催等の情報はメーリングリストやSNSにて配信しております。メーリングリストへのご登録をおすすめします。
@@ -19,8 +17,6 @@ region: Asia/Pacific
 
 OWASP - Open Web Application Security Project
 とは、Webをはじめとするソフトウェアのセキュリティ環境の現状、またセキュアなソフトウェア開発を促進する技術・プロセスに関する情報共有と普及啓発を目的としたプロフェッショナルの集まる、非営利のオープンソース・ソフトウェアコミュニティです。
-
-OWASPのチャプターミーティングでのスピーカーとしての参加ご希望の方は、 [speaker
 
 ## チャプタースポンサー
 
