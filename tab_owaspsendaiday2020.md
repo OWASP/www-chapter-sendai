@@ -15,23 +15,23 @@ OWASP Sendai発足4周年とローカルチャプターミーティング通算4
 
 * 株式会社イエラエセキュリティ
 
-[<img src="/assets/images/ierae.jpg" width="200px">](https://ierae.co.jp/)
+[<img src="assets/images/ierae.jpg" width="200px">](https://ierae.co.jp/)
 
 * 株式会社エヌ・エフ・ラボラトリーズ
 
-[<img src="/assets/images/nflaboratories.jpg" width="200px">](https://nflaboratories.co.jp/)
+[<img src="assets/images/nflaboratories.jpg" width="200px">](https://nflaboratories.co.jp/)
 
 * Capy株式会社
 
-[<img src="/assets/images/CapyInc.png" width="200px">](https://www.capy.me/jp/)
+[<img src="assets/images/CapyInc.png" width="200px">](https://www.capy.me/jp/)
 
 * 株式会社シーエー・アドバンス
 
-[<img src="/assets/images/CAAdvance.png" width="200px">](https://www.ca-adv.co.jp/)
+[<img src="assets/images/CAAdvance.png" width="200px">](https://www.ca-adv.co.jp/)
 
 * 株式会社セキュアスカイ・テクノロジー
 
-[<img src="/assets/images/SecureSkyTechnologyInc.png" width="200px">](https://www.securesky-tech.com)
+[<img src="assets/images/SecureSkyTechnologyInc.png" width="200px">](https://www.securesky-tech.com)
 
 
 * 株式会社RAPiC
@@ -42,7 +42,7 @@ OWASP Sendai発足4周年とローカルチャプターミーティング通算4
 
 * 株式会社セキュリティイニシアティブ
 
-[<img src="/assets/images/securityinitiative.png" width="200px">](https://security-initiative.co.jp)
+[<img src="assets/images/securityinitiative.png" width="200px">](https://security-initiative.co.jp)
 
 
 ### シルバースポンサー
