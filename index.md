@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Sendai
-tags: example-tag
+tags: sendai-tag
 level: 0
 
 region: Asia/Pacific
