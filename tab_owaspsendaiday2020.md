@@ -15,12 +15,12 @@ OWASP Sendai発足4周年とローカルチャプターミーティング通算4
 
 [<img src="http://drive.google.com/uc?export=view&id=1UXIv2OM1-Od19P8wj7GCLpF14BgOsEWa">](https://ierae.co.jp/)
 
-株式会社イエラエセキュリティ<br/>
+株式会社イエラエセキュリティ
 
-<a href="https://nflaboratories.co.jp/"><img src="http://drive.google.com/uc?export=view&id=1kT90gQ7SF3my2SS6FSSSI1lI4u4_iQ1R" width = 200px></a><br/>
-株式会社エヌ・エフ・ラボラトリーズ<br/>
+[<img src="http://drive.google.com/uc?export=view&id=1kT90gQ7SF3my2SS6FSSSI1lI4u4_iQ1R" width="200px">](https://nflaboratories.co.jp/)
+株式会社エヌ・エフ・ラボラトリーズ
 
-<a href="https://www.capy.me/jp/"><img src="http://drive.google.com/uc?export=view&id=1vDXWrr31TDcZz9az3ylp0GirN7FOLq_h" width = 300px></a><br/>
+[<img src="http://drive.google.com/uc?export=view&id=1vDXWrr31TDcZz9az3ylp0GirN7FOLq_h">](https://www.capy.me/jp/)
 Capy株式会社<br/>
 
 <a href="https://www.ca-adv.co.jp/"><img src="http://drive.google.com/uc?export=view&id=1wKVwPWyLWwQwzUABo0sXn0IDT_v-NdlU" width = 300px></a><br/>
