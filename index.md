@@ -35,7 +35,7 @@ OWASP - Open Web Application Security Project
 
 #### トークコンテンツ
 
-* 「API Security Top10 Overview」 スピーカー：山本誠樹 (@nnasaki)
+* 「API Security Top10 Overview」 スピーカー：山本誠樹 (@nnasaki) / Microsoft MVP for Microsoft Azure
 * 「OSINT at The Services for Corparate」 スピーカー：Oscar Orellana (@odin_200)  / OWASP Chile Chapter
 
 #### 参加お申し込み
