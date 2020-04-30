@@ -26,27 +26,26 @@ OWASP - Open Web Application Security Project
 
 ## 次回のミーティング
 
-### \[OWASP Sendai ミーティング 35\]
-
-#### Venue スポンサー
-
-株式会社RAPiC様より会場をご提供頂いて開催いたします。
+### \[OWASP Sendai ミーティング 42\]
 
 #### 日時 ＆ 場所
 
-2019年6月26日(水) 18:30～20:30 [@ソシラボ](http://socilabo.com/)
+2020年5月12日(火) 18:30～20:30 オンライン開催
 
 #### コンテンツ
 
+TBA
+<!--
 - 「はじめてのOWASP Top10 2017 - A7:クロスサイトスクリプティング」 スピーカー：千葉 翔也（東北工業大学）＆
-セキュリティ初心者やまだくん
+セキュリティ初心者やまだくん 
 
 - 「OWASP ASVS 4.0」 スピーカー：小笠貴晴 / OWASP Sendai チャプターリーダー /
 株式会社セキュリティイニシアティブ
-
+-->
 #### 参加お申し込み
 
-[お申し込みページへ](https://owaspsendai.connpass.com/event/132635/)
+TBA
+<!--[お申し込みページへ](https://owaspsendai.connpass.com/event/132635/)-->
 
 
 
