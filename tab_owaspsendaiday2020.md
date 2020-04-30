@@ -42,7 +42,7 @@ OWASP Sendai発足4周年とローカルチャプターミーティング通算4
 
 * 株式会社セキュリティイニシアティブ
 
-[<img src="https://security-initiative.co.jp/wp/wp-content/uploads/2019/09/logo_small-e1568861294129.jpg" width="200px">](https://security-initiative.co.jp)
+[<img src="/assets/images/securityinitiative.png" width="200px">](https://security-initiative.co.jp)
 
 
 ### シルバースポンサー
