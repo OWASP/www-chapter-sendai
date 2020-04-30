@@ -35,13 +35,13 @@ OWASP Sendai発足4周年とローカルチャプターミーティング通算4
 
 ### ブロンズスポンサー
 
-[<img src="http://drive.google.com/uc?export=view&id=1GVCE1_bgei5oiIe_f3PQ9lOxrN986f_e" height="100px">](https://www.facebook.com/extechSendai)
+[<img src="assets/images/extech.png" height="100px">](https://www.facebook.com/extechSendai)
 
-[<img src="http://drive.google.com/uc?export=view&id=1Aihc8gc9LoYipr__ALRq6FPKSc3B3STa" height="100px"](https://sria.co.jp/)
+[<img src="assets/images/SRIA.png" height="100px"](https://sria.co.jp/)
 
-[<img src="http://drive.google.com/uc?export=view&id=1X7LYxTzXpaMkTauwJPHHouCA8Skhrw1Q" height="100px">](https://zeusec.co.jp/)
+[<img src="assets/images/zeusec.png" height="100px">](https://zeusec.co.jp/)
 
-[<img src="https://www.owasp.org/images/6/62/Sendai_logo_rapic_204x60.jpg" height="100px">](http://rapic.jp/)
+[<img src="assets/images/rapic.jp" height="100px">](http://rapic.jp/)
 
 ### キーノートスピーカーのみなさま(50音順)
 Soya Aoyama (@SoyaAoyama) / 富士通システム統合研究所
