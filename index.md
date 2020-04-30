@@ -9,13 +9,9 @@ region: Asia/Pacific
 
 ---
 
-![logo_owasp_sendai.jpg](logo_owasp_sendai.jpg
-"logo_owasp_sendai.jpg")
+![logo_owasp_sendai.jpg](logo_owasp_sendai.jpg"logo_owasp_sendai.jpg")
 
-## OWASP 仙台
-
-
-OWASP Sendaiへようこそ。
+## OWASP Sendaiへようこそ。
 
 イベント開催等の情報はメーリングリストやSNSにて配信しております。メーリングリストへのご登録をおすすめします。
 - [メーリングリスト](https://lists.owasp.org/mailman/listinfo/owasp-sendai)
@@ -32,11 +28,7 @@ agreementをご覧いただき](Speaker_Agreement "wikilink")、ローカルチ�
 
 ## スポンサー＆メンバー募集
 
-OWASP Foundation、ローカルチャプター、イベント等への寄付はOWASP
-Foundationの承認を得たオンラインの寄付システムからのみ受け付けております。
-
-OWASP
-Sendaiチャプターへの寄付をご希望の方はページ上部の「Donate」ボタンを、OWASPのメンバーシップ加入をご希望の方は「Join」ボタンをクリックしてください。
+OWASP Foundation、ローカルチャプター、イベント等への寄付はOWASP Foundationの承認を得たオンラインの寄付システムからのみ受け付けております。OWASP Sendaiチャプターへの寄付をご希望の方はページ上部の「Donate」ボタンを、OWASPのメンバーシップ加入をご希望の方は「Join」ボタンをクリックしてください。
 
 ## チャプタースポンサー
 
@@ -48,15 +40,15 @@ Sendaiチャプターへの寄付をご希望の方はページ上部の「Donat
 
 ### \[OWASP Sendai ミーティング 35\]
 
-### Venue スポンサー
+#### Venue スポンサー
 
 株式会社RAPiC様より会場をご提供頂いて開催いたします。
 
-### 日時 ＆ 場所
+#### 日時 ＆ 場所
 
 2019年6月26日(水) 18:30～20:30 [@ソシラボ](http://socilabo.com/)
 
-### コンテンツ
+#### コンテンツ
 
 - 「はじめてのOWASP Top10 2017 - A7:クロスサイトスクリプティング」 スピーカー：千葉 翔也（東北工業大学）＆
 セキュリティ初心者やまだくん
@@ -64,7 +56,7 @@ Sendaiチャプターへの寄付をご希望の方はページ上部の「Donat
 - 「OWASP ASVS 4.0」 スピーカー：小笠貴晴 / OWASP Sendai チャプターリーダー /
 株式会社セキュリティイニシアティブ
 
-### 参加お申し込み
+#### 参加お申し込み
 
 [お申し込みページへ](https://owaspsendai.connpass.com/event/132635/)
 
