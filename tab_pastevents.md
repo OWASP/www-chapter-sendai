@@ -1,5 +1,5 @@
 ---
-title: PreviousMeetings
+title: PastEvents
 displaytext: 過去のミーティング
 layout:  null
 tab: true

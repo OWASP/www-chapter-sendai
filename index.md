@@ -9,27 +9,21 @@ region: Asia/Pacific
 
 ---
 
-![OWASP Sendai Logo](logo_owasp_sendai.jpg
-"OWASP Sendai Logo")
+![OWASP Sendai Logo](logo_owasp_sendai.jpg "OWASP Sendai Logo")
 
 ## OWASP Sendaiへようこそ
----
+
 イベント開催等の情報はメーリングリストやSNSにて配信しております。メーリングリストへのご登録をおすすめします。
 - [メーリングリスト](https://lists.owasp.org/mailman/listinfo/owasp-sendai)
 - [FACEBOOKページ](https://www.facebook.com/owaspsendai/)
 - [Twitter](https://twitter.com/OWASP_Sendai)
 
 ## OWASP Sendaiでのスピーカーとしての参加ご希望の方へ
----
+
 OWASP - Open Web Application Security Project
 とは、Webをはじめとするソフトウェアのセキュリティ環境の現状、またセキュアなソフトウェア開発を促進する技術・プロセスに関する情報共有と普及啓発を目的としたプロフェッショナルの集まる、非営利のオープンソース・ソフトウェアコミュニティです。
 
 OWASPのチャプターミーティングでのスピーカーとしての参加ご希望の方は、 [speaker
-agreementをご覧いただき](Speaker_Agreement "wikilink")、ローカルチャプターのリーダーにご連絡の上、プレゼンテーションしたいトピックをお知らせ下さい。
-
-## スポンサー＆メンバー募集
-
-OWASP Foundation、ローカルチャプター、イベント等への寄付はOWASP Foundationの承認を得たオンラインの寄付システムからのみ受け付けております。OWASP Sendaiチャプターへの寄付をご希望の方はページ上部の「Donate」ボタンを、OWASPのメンバーシップ加入をご希望の方は「Join」ボタンをクリックしてください。
 
 ## チャプタースポンサー
 
