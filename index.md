@@ -7,8 +7,6 @@ level: 0
 
 region: Asia/Pacific
 
-auto-migrated: 1
-
 ---
 
 ![logo_owasp_sendai.jpg](logo_owasp_sendai.jpg
@@ -38,12 +36,7 @@ OWASP Foundation、ローカルチャプター、イベント等への寄付はO
 Foundationの承認を得たオンラインの寄付システムからのみ受け付けております。
 
 OWASP
-Sendaiチャプターへの寄付をご希望の方はDonateボタンをクリックして進んで下さい。![Btn_donate_SM.gif](Btn_donate_SM.gif
-"Btn_donate_SM.gif")
-
-個人、コーポレート、アカデミックメンバーとしてご登録をご希望の方はJoin
-Nowをクリックして下さい。![Join_Now_BlueIcon.JPG](Join_Now_BlueIcon.JPG
-"Join_Now_BlueIcon.JPG")
+Sendaiチャプターへの寄付をご希望の方はページ上部の「Donate」ボタンを、OWASPのメンバーシップ加入をご希望の方は「Join」ボタンをクリックしてください。
 
 ## チャプタースポンサー
 
@@ -382,25 +375,7 @@ Venue スポンサー
 
 
 
-# OWASP Sendai Board
 
-Chapter Leader:
-[小笠 貴晴 / Takaharu
-Ogasa](https://www.owasp.org/index.php/User:Takaharu.ogasa)
-[Twitter](https://twitter.com/TakaharuOgasa)
-[高橋 そのみ / Sonomi Takahashi](mailto:somonin@owasp.org)
-Chapter Boards:
-[佐藤 淳 / Jun Sato](mailto:jun.sato@owasp.org)
-[佐藤 陽亮 / Yosuke Sato](mailto:yosuke.sato@owasp.org)
-[佐藤 将太 / Shota Sato](mailto:shota.sato@owasp.org)
-[松浦 聖 / Takashi Matsuura](mailto:takashi.matsuura@owasp.org)
-<headertabs></headertabs>
-
-[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
-[Category:Asia/Pacific/Middle
-East](Category:Asia/Pacific/Middle_East "wikilink")
-[Category:Japan](Category:Japan "wikilink")
-[Category:Asia](Category:Asia "wikilink")
 
 
 <!-- Standard Chapter Page Template
