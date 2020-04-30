@@ -12,8 +12,8 @@ auto-migrated: 1
 ---
 __NOTOC__
 
-![Owasp_sendai_banner.jpg](Owasp_sendai_banner.jpg
-"Owasp_sendai_banner.jpg")
+![logo_owasp_sendai.jpg](logo_owasp_sendai.jpg
+"logo_owasp_sendai.jpg")
 
 # Japanese
 
