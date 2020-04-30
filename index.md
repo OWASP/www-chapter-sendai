@@ -35,8 +35,7 @@ OWASP - Open Web Application Security Project
 #### コンテンツ
 
 TBA
-<!--
-- 「はじめてのOWASP Top10 2017 - A7:クロスサイトスクリプティング」 スピーカー：千葉 翔也（東北工業大学）＆
+<!-- - 「はじめてのOWASP Top10 2017 - A7:クロスサイトスクリプティング」 スピーカー：千葉 翔也（東北工業大学）＆
 セキュリティ初心者やまだくん 
 
 - 「OWASP ASVS 4.0」 スピーカー：小笠貴晴 / OWASP Sendai チャプターリーダー /
