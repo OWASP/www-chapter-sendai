@@ -1,5 +1,5 @@
 ---
-title: OWASP Sendai Day 2020
+title: OWASPSendaiDay2020
 layout:  null
 tab: true
 order: 3
