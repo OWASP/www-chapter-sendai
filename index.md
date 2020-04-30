@@ -24,7 +24,7 @@ OWASP - Open Web Application Security Project
 
 ### ゴールドチャプタースポンサー
 
-| [<img src="assets/images/securityinitiative.png" height="100px">](https://security-initiative.co.jp) |
+| [<img src="assets/images/securityinitiative.png" height="80px">](https://security-initiative.co.jp) |
 
 ## 次回のミーティング
 ### OWASP Sendai ミーティング 42
