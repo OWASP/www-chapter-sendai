@@ -5,7 +5,7 @@ tags: sendai-tag
 level: 0
 region: Asia/Pacific
 ---
-![OWASP Sendai Logo](/assets/images/logo_owasp_sendai.jpg)
+![OWASP Sendai Logo](assets/images/logo_owasp_sendai.jpg)
 ## OWASP Sendaiへようこそ
 
 イベント開催等の情報はメーリングリストやSNSにて配信しております。メーリングリストへのご登録をおすすめします。
