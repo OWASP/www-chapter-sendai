@@ -13,17 +13,17 @@ OWASP Sendai発足4周年とローカルチャプターミーティング通算4
 ### スピーカースポンサー 50音順
 スピーカーの皆様の当イベント参加のために貴重なリソース支援していただいた企業様です。
 
-[<img src="assets/images/ierae.jpg" width="200px">](https://ierae.co.jp/)
+[<img src="assets/images/ierae.jpg" height="100px">](https://ierae.co.jp/)
 
-[<img src="assets/images/nflaboratories.jpg" width="200px">](https://nflaboratories.co.jp/)
+[<img src="assets/images/nflaboratories.jpg" height="100px">](https://nflaboratories.co.jp/)
 
-[<img src="assets/images/CapyInc.png" width="200px">](https://www.capy.me/jp/)
+[<img src="assets/images/CapyInc.png" height="100px">](https://www.capy.me/jp/)
 
-[<img src="assets/images/CAAdvance.png" width="200px">](https://www.ca-adv.co.jp/)
+[<img src="assets/images/CAAdvance.png" height="100px">](https://www.ca-adv.co.jp/)
 
-[<img src="assets/images/SecureSkyTechnologyInc.png" width="200px">](https://www.securesky-tech.com)
+[<img src="assets/images/SecureSkyTechnologyInc.png" height="100px">](https://www.securesky-tech.com)
 
-[<img src="https://www.owasp.org/images/6/62/Sendai_logo_rapic_204x60.jpg" width="200px">](http://rapic.jp/)
+[<img src="https://www.owasp.org/images/6/62/Sendai_logo_rapic_204x60.jpg" height="100px">](http://rapic.jp/)
 
 ### ゴールドスポンサー
 
