@@ -6,7 +6,7 @@ level: 0
 region: Asia/Pacific
 ---
 
-![OWASP Sendai Logo](logo_owasp_sendai.jpg "OWASP Sendai Logo")
+![OWASPSendaiLogo](logo_owasp_sendai.jpg "OWASPSendaiLogo")
 
 ## OWASP Sendaiへようこそ
 
