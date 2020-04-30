@@ -13,28 +13,15 @@ OWASP Sendai発足4周年とローカルチャプターミーティング通算4
 ### スピーカースポンサー 50音順
 スピーカーの皆様の当イベント参加のために貴重なリソース支援していただいた企業様です。
 
-* 株式会社イエラエセキュリティ
-
 [<img src="assets/images/ierae.jpg" width="200px">](https://ierae.co.jp/)
-
-* 株式会社エヌ・エフ・ラボラトリーズ
 
 [<img src="assets/images/nflaboratories.jpg" width="200px">](https://nflaboratories.co.jp/)
 
-* Capy株式会社
-
 [<img src="assets/images/CapyInc.png" width="200px">](https://www.capy.me/jp/)
-
-* 株式会社シーエー・アドバンス
 
 [<img src="assets/images/CAAdvance.png" width="200px">](https://www.ca-adv.co.jp/)
 
-* 株式会社セキュアスカイ・テクノロジー
-
 [<img src="assets/images/SecureSkyTechnologyInc.png" width="200px">](https://www.securesky-tech.com)
-
-
-* 株式会社RAPiC
 
 [<img src="https://www.owasp.org/images/6/62/Sendai_logo_rapic_204x60.jpg" width="200px">](http://rapic.jp/)
 
