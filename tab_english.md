@@ -6,6 +6,7 @@ order: 1
 tags: sendai-tag
 ---
 
+![OWASP Sendai Logo](/assets/images/logo_owasp_sendai.jpg)
 
 ## Chapter Sponsor
 
@@ -16,6 +17,8 @@ contributing funds to our chapter:
 ### Chapter Sponsor
 
 ## Upcoming Meeting
+
+<!--
 
 ### \[2018 OWASP Sendai Meeting 29\]
 
@@ -39,3 +42,6 @@ This meeting will be presented by Rapic Inc.
 ### REGISTRATION
 
 [Connpass](https://owaspsendai.connpass.com/event/109870/)
+
+
+-->
