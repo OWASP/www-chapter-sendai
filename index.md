@@ -10,7 +10,6 @@ region: Asia/Pacific
 auto-migrated: 1
 
 ---
-__NOTOC__
 
 ![logo_owasp_sendai.jpg](logo_owasp_sendai.jpg
 "logo_owasp_sendai.jpg")
