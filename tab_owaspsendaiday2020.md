@@ -27,12 +27,14 @@ Capy株式会社
 
 [<img src="http://drive.google.com/uc?export=view&id=1wKVwPWyLWwQwzUABo0sXn0IDT_v-NdlU" width="200px">](https://www.ca-adv.co.jp/)
 
-株式会社シーエー・アドバンス<br/>
+株式会社シーエー・アドバンス
 
-<a href="https://www.securesky-tech.com"><img src="http://drive.google.com/uc?export=view&id=1VpOwMmLeXUbY26mq_1ZvOeEH6-vSwvEX" width = 300px></a>
-株式会社セキュアスカイ・テクノロジー<br/>
+[<img src="http://drive.google.com/uc?export=view&id=1VpOwMmLeXUbY26mq_1ZvOeEH6-vSwvEX" width="200px">](https://www.securesky-tech.com)
 
-<a href="http://rapic.jp/"><img src="https://www.owasp.org/images/6/62/Sendai_logo_rapic_204x60.jpg" width =300px></a>
+株式会社セキュアスカイ・テクノロジー
+
+[<img src="https://www.owasp.org/images/6/62/Sendai_logo_rapic_204x60.jpg" width="200px">](http://rapic.jp/)
+
 株式会社RAPiC
 
 ### 【ゴールドスポンサー】
