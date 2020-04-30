@@ -1,5 +1,5 @@
 ---
-title: english
+title: English
 layout:  null
 tab: true
 order: 1
