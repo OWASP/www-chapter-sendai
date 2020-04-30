@@ -1,4 +1,5 @@
 ### Leaders
 
 * [Sonomi Takahashi](mailto:sonomin@owasp.org)
-* [Takaharu Ogasa](mailto:)
+* [Takaharu Ogasa](mailto:takaharu.ogasa@owasp.org)
+* Yuta Sasaki
