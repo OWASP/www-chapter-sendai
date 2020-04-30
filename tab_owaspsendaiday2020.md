@@ -38,24 +38,29 @@ Capy株式会社
 株式会社RAPiC
 
 ### 【ゴールドスポンサー】
+[<img src="https://security-initiative.co.jp/wp/wp-content/uploads/2019/09/logo_small-e1568861294129.jpg" width="200px">](https://security-initiative.co.jp)
 
-<a href="https://security-initiative.co.jp"><img src="https://security-initiative.co.jp/wp/wp-content/uploads/2019/09/logo_small-e1568861294129.jpg"></a>
-株式会社セキュリティイニシアティブ<br/>
+株式会社セキュリティイニシアティブ
 
 ### 【シルバースポンサー】
+なし
 
 ### 【ブロンズスポンサー】
 
-<a href="https://www.facebook.com/extechSendai"><img src="http://drive.google.com/uc?export=view&id=1GVCE1_bgei5oiIe_f3PQ9lOxrN986f_e" width = 250px></a>
-株式会社エクテック<br/>
+[<img src="http://drive.google.com/uc?export=view&id=1GVCE1_bgei5oiIe_f3PQ9lOxrN986f_e" width="200px">](https://www.facebook.com/extechSendai)
 
-<a href="https://sria.co.jp/"><img src="http://drive.google.com/uc?export=view&id=1Aihc8gc9LoYipr__ALRq6FPKSc3B3STa" width = 300px></a>
-株式会社SRIA<br/>
+株式会社エクテック
 
-<a href="https://zeusec.co.jp/"><img src="http://drive.google.com/uc?export=view&id=1X7LYxTzXpaMkTauwJPHHouCA8Skhrw1Q" width = 300px></a>
-株式会社Zeusec<br/>
+[<img src="http://drive.google.com/uc?export=view&id=1Aihc8gc9LoYipr__ALRq6FPKSc3B3STa" width="200px">](https://sria.co.jp/)
 
-<a href="http://rapic.jp/"><img src="https://www.owasp.org/images/6/62/Sendai_logo_rapic_204x60.jpg" width =300px></a>
+株式会社SRIA
+
+[<img src="http://drive.google.com/uc?export=view&id=1X7LYxTzXpaMkTauwJPHHouCA8Skhrw1Q" width="200px">](https://zeusec.co.jp/)
+
+株式会社Zeusec
+
+[<img src="https://www.owasp.org/images/6/62/Sendai_logo_rapic_204x60.jpg" width="200px">](http://rapic.jp/)
+
 株式会社RAPiC
 
 ### 【キーノートスピーカーのみなさま(50音順)】
