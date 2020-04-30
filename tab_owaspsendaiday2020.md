@@ -13,29 +13,32 @@ OWASP Sendai発足4周年とローカルチャプターミーティング通算4
 ### 【スピーカースポンサー 50音順】
 スピーカーの皆様の当イベント参加のために貴重なリソース支援していただいた企業様です。
 
+* 株式会社イエラエセキュリティ
+
 [<img src="http://drive.google.com/uc?export=view&id=1UXIv2OM1-Od19P8wj7GCLpF14BgOsEWa" width="200px">](https://ierae.co.jp/)
 
-株式会社イエラエセキュリティ
+* 株式会社エヌ・エフ・ラボラトリーズ
 
 [<img src="http://drive.google.com/uc?export=view&id=1kT90gQ7SF3my2SS6FSSSI1lI4u4_iQ1R" width="200px">](https://nflaboratories.co.jp/)
 
-株式会社エヌ・エフ・ラボラトリーズ
+* Capy株式会社
 
 [<img src="http://drive.google.com/uc?export=view&id=1vDXWrr31TDcZz9az3ylp0GirN7FOLq_h" width="200px">](https://www.capy.me/jp/)
 
-Capy株式会社
+* 株式会社シーエー・アドバンス
 
 [<img src="http://drive.google.com/uc?export=view&id=1wKVwPWyLWwQwzUABo0sXn0IDT_v-NdlU" width="200px">](https://www.ca-adv.co.jp/)
 
-株式会社シーエー・アドバンス
+* 株式会社セキュアスカイ・テクノロジー
 
 [<img src="http://drive.google.com/uc?export=view&id=1VpOwMmLeXUbY26mq_1ZvOeEH6-vSwvEX" width="200px">](https://www.securesky-tech.com)
 
-株式会社セキュアスカイ・テクノロジー
+
+* 株式会社RAPiC
 
 [<img src="https://www.owasp.org/images/6/62/Sendai_logo_rapic_204x60.jpg" width="200px">](http://rapic.jp/)
 
-株式会社RAPiC
+
 
 ### 【ゴールドスポンサー】
 [<img src="https://security-initiative.co.jp/wp/wp-content/uploads/2019/09/logo_small-e1568861294129.jpg" width="200px">](https://security-initiative.co.jp)
