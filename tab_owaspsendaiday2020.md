@@ -13,17 +13,20 @@ OWASP Sendai発足4周年とローカルチャプターミーティング通算4
 ### 【スピーカースポンサー 50音順】
 スピーカーの皆様の当イベント参加のために貴重なリソース支援していただいた企業様です。
 
-[<img src="http://drive.google.com/uc?export=view&id=1UXIv2OM1-Od19P8wj7GCLpF14BgOsEWa">](https://ierae.co.jp/)
+[<img src="http://drive.google.com/uc?export=view&id=1UXIv2OM1-Od19P8wj7GCLpF14BgOsEWa" width="200px">](https://ierae.co.jp/)
 
 株式会社イエラエセキュリティ
 
 [<img src="http://drive.google.com/uc?export=view&id=1kT90gQ7SF3my2SS6FSSSI1lI4u4_iQ1R" width="200px">](https://nflaboratories.co.jp/)
+
 株式会社エヌ・エフ・ラボラトリーズ
 
-[<img src="http://drive.google.com/uc?export=view&id=1vDXWrr31TDcZz9az3ylp0GirN7FOLq_h">](https://www.capy.me/jp/)
-Capy株式会社<br/>
+[<img src="http://drive.google.com/uc?export=view&id=1vDXWrr31TDcZz9az3ylp0GirN7FOLq_h" width="200px">](https://www.capy.me/jp/)
 
-<a href="https://www.ca-adv.co.jp/"><img src="http://drive.google.com/uc?export=view&id=1wKVwPWyLWwQwzUABo0sXn0IDT_v-NdlU" width = 300px></a><br/>
+Capy株式会社
+
+[<img src="http://drive.google.com/uc?export=view&id=1wKVwPWyLWwQwzUABo0sXn0IDT_v-NdlU" width="200px">](https://www.ca-adv.co.jp/)
+
 株式会社シーエー・アドバンス<br/>
 
 <a href="https://www.securesky-tech.com"><img src="http://drive.google.com/uc?export=view&id=1VpOwMmLeXUbY26mq_1ZvOeEH6-vSwvEX" width = 300px></a>
