@@ -5,11 +5,12 @@ tags: sendai-tag
 level: 0
 region: Asia/Pacific
 ---
+
 ![OWASP Sendai Logo](assets/images/logo_owasp_sendai.jpg)
+
 ## OWASP Sendaiへようこそ
 
 イベント開催等の情報はメーリングリストやSNSにて配信しております。メーリングリストへのご登録をおすすめします。
-- [メーリングリスト](https://lists.owasp.org/mailman/listinfo/owasp-sendai)
 - [FACEBOOKページ](https://www.facebook.com/owaspsendai/)
 - [Twitter](https://twitter.com/OWASP_Sendai)
 
@@ -32,16 +33,10 @@ OWASP - Open Web Application Security Project
 
 2020年5月12日(火) 18:30～20:30 オンライン開催
 
-#### コンテンツ
+#### トークコンテンツ
 
-TBA
-
-<!-- * 「はじめてのOWASP Top10 2017 - A7:クロスサイトスクリプティング」 スピーカー：千葉 翔也（東北工業大学）＆
-セキュリティ初心者やまだくん 
-
-* 「OWASP ASVS 4.0」 スピーカー：小笠貴晴 / OWASP Sendai チャプターリーダー /
-株式会社セキュリティイニシアティブ
--->
+* 「API Security Top10 Overview」 スピーカー：山本誠樹 (@nnasaki)
+* 「OSINT at The Services for Corparate」 スピーカー：Oscar Orellana (@odin_200)  / OWASP Chile Chapter
 
 #### 参加お申し込み
 
