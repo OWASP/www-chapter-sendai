@@ -7,14 +7,14 @@ order: 2
 tags: sendai-tag
 ---
 
-
 # OWASP Sendai Day 2020
 OWASP Sendai発足4周年とローカルチャプターミーティング通算40回を記念して、過去にOWASP Sendaiでトークしていただいたみなさまをキーノートスピーカーズとして多数お招きし、CFPによる新たなスピーカーのみなさまの登壇により知見の交換/交流を行うことを目的とした2日間のネットワーキングイベントです。
 
 ### 【スピーカースポンサー 50音順】
 スピーカーの皆様の当イベント参加のために貴重なリソース支援していただいた企業様です。
 
-<a href="https://ierae.co.jp/"><img src="http://drive.google.com/uc?export=view&id=1UXIv2OM1-Od19P8wj7GCLpF14BgOsEWa" width = 200px></a><br/>
+[<img src="http://drive.google.com/uc?export=view&id=1UXIv2OM1-Od19P8wj7GCLpF14BgOsEWa">](https://ierae.co.jp/)
+
 株式会社イエラエセキュリティ<br/>
 
 <a href="https://nflaboratories.co.jp/"><img src="http://drive.google.com/uc?export=view&id=1kT90gQ7SF3my2SS6FSSSI1lI4u4_iQ1R" width = 200px></a><br/>
@@ -127,12 +127,12 @@ mage (@mage_1868) / 株式会社イエラエセキュリティ
 * 「WAFの色々」羽鶴 颯 (@kawada_syogo225) / 株式会社セキュアスカイ・テクノロジー
 
 ### 【イベントスケジュール】
-2月8日
+#### 2月8日
 9:30 会場オープン
 10:00 トークスタート
 17:00 トーク終了
 
-2月9日
+#### 2月9日
 9:30 会場オープン
 10:00 トークスタート
 17:00 トーク終了
