@@ -9,7 +9,7 @@ region: Asia/Pacific
 
 ---
 
-![logo_owasp_sendai.jpg](logo_owasp_sendai.jpg"logo_owasp_sendai.jpg")
+![logo_owasp_sendai.jpg](logo_owasp_sendai.jpg "logo_owasp_sendai.jpg")
 
 ## OWASP Sendaiへようこそ。
 
