@@ -20,7 +20,7 @@ OWASP - Open Web Application Security Project
 
 ## チャプタースポンサー
 
-寄付によりOWASP Sendaiチャプターの活動に貢献していただいているスポンサー様の一覧です:
+寄付によりOWASP Sendaiチャプターの活動に貢献していただいているスポンサー様の一覧です。
 
 ### ゴールドチャプタースポンサー
 
