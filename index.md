@@ -9,9 +9,10 @@ region: Asia/Pacific
 
 ---
 
-![OWASP Sendai Logo](logo_owasp_sendai.jpg "OWASP Sendai Logo")
+![OWASP Sendai Logo](logo_owasp_sendai.jpg
+"OWASP Sendai Logo")
 
-## OWASP Sendaiへようこそ。
+## OWASP Sendaiへようこそ
 ---
 イベント開催等の情報はメーリングリストやSNSにて配信しております。メーリングリストへのご登録をおすすめします。
 - [メーリングリスト](https://lists.owasp.org/mailman/listinfo/owasp-sendai)
