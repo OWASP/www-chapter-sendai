@@ -12,14 +12,14 @@ region: Asia/Pacific
 ![OWASP Sendai Logo](logo_owasp_sendai.jpg "OWASP Sendai Logo")
 
 ## OWASP Sendaiへようこそ。
-
+---
 イベント開催等の情報はメーリングリストやSNSにて配信しております。メーリングリストへのご登録をおすすめします。
 - [メーリングリスト](https://lists.owasp.org/mailman/listinfo/owasp-sendai)
 - [FACEBOOKページ](https://www.facebook.com/owaspsendai/)
 - [Twitter](https://twitter.com/OWASP_Sendai)
 
 ## OWASP Sendaiでのスピーカーとしての参加ご希望の方へ
-
+---
 OWASP - Open Web Application Security Project
 とは、Webをはじめとするソフトウェアのセキュリティ環境の現状、またセキュアなソフトウェア開発を促進する技術・プロセスに関する情報共有と普及啓発を目的としたプロフェッショナルの集まる、非営利のオープンソース・ソフトウェアコミュニティです。
 
