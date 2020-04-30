@@ -12,18 +12,18 @@ OWASP Sendai発足4周年とローカルチャプターミーティング通算4
 
 ### ゴールドスポンサー
 
-| [<img src="assets/images/securityinitiative.png" height="100px">](https://security-initiative.co.jp) |
+| [<img src="assets/images/securityinitiative.png" height="80px">](https://security-initiative.co.jp) |
 
 ### ブロンズスポンサー
 
-| [<img src="assets/images/extech.png" height="80px">](https://www.facebook.com/extechSendai) | [<img src="assets/images/SRIA.png" height="80px">](https://sria.co.jp/) |
-| [<img src="assets/images/zeusec.png" height="80px">](https://zeusec.co.jp/) | [株式会社RAPiC](http://rapic.jp/) |
+| [<img src="assets/images/extech.png" height="70px">](https://www.facebook.com/extechSendai) | [<img src="assets/images/SRIA.png" height="70px">](https://sria.co.jp/) |
+| [<img src="assets/images/zeusec.png" height="70px">](https://zeusec.co.jp/) | [株式会社RAPiC](http://rapic.jp/) |
 
 ### スピーカースポンサー
 スピーカーの皆様の当イベント参加のために貴重なリソース支援していただいた企業様です。
 
-| [<img src="assets/images/ierae.jpg" height="70px">](https://ierae.co.jp/) | [<img src="assets/images/nflaboratories.jpg" height="70px">](https://nflaboratories.co.jp/) | [<img src="assets/images/CapyInc.png" height="70px">](https://www.capy.me/jp/) |
-| [<img src="assets/images/CAAdvance.png" height="70px">](https://www.ca-adv.co.jp/) | [<img src="assets/images/SecureSkyTechnologyInc.png" height="70px">](https://www.securesky-tech.com) | [株式会社RAPiC](http://rapic.jp/) |
+| [<img src="assets/images/ierae.jpg" height="60px">](https://ierae.co.jp/) | [<img src="assets/images/nflaboratories.jpg" height="60px">](https://nflaboratories.co.jp/) | [<img src="assets/images/CapyInc.png" height="60px">](https://www.capy.me/jp/) |
+| [<img src="assets/images/CAAdvance.png" height="60px">](https://www.ca-adv.co.jp/) | [<img src="assets/images/SecureSkyTechnologyInc.png" height="60px">](https://www.securesky-tech.com) | [株式会社RAPiC](http://rapic.jp/) |
 
 ### キーノートスピーカーのみなさま(50音順)
 * Soya Aoyama (@SoyaAoyama) / 富士通システム統合研究所
