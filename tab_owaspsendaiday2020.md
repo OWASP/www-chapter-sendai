@@ -16,7 +16,6 @@ OWASP Sendai発足4周年とローカルチャプターミーティング通算4
 
 ## ブロンズスポンサー
 
-|:------------:|:------------:|:------------:|
 | [<img src="assets/images/extech.png" height="60px">](https://www.facebook.com/extechSendai) | [<img src="assets/images/SRIA.png" height="60px">](https://sria.co.jp/) |
 | [<img src="assets/images/zeusec.png" height="60px">](https://zeusec.co.jp/) | [株式会社RAPiC](http://rapic.jp/) |
 
