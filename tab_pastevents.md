@@ -16,8 +16,44 @@ tags: sendai-tag
      | [株式会社RAPiC](http://rapic.jp/) |
 
    * トークタイトル
-      * 「サイバー犯罪と法律」 スピーカー：松宮 大輝 (元サイバー犯罪捜査官)
-      * 「公共Wi-fiの危険性について」 スピーカー：小沢 史明
+      * 「サイバー犯罪と法律」 松宮 大輝 (元サイバー犯罪捜査官)
+      * 「公共Wi-fiの危険性について」 小沢 史明
+
+## OWASP Sendai ミーティング 33
+   * 2019年4月12日(金) 18:30～20:30 [@ソシラボ](http://socilabo.com/)
+   * Venue スポンサー
+
+     | [株式会社RAPiC](http://rapic.jp/) |
+
+   * トークタイトル
+      * 「JAWS DAYS 2019 re:Verse -Full Edition-」 吉江 瞬 / OWASP Japan Promotion Team
+      * 「セキュリティ対策基準 NIST SP800-171」 小田 保之
+
+## OWASP Sendai ミーティング 32
+   * 2019年3月23日(土) 16:00～18:00 [@ソシラボ](http://socilabo.com/)
+   * Venue スポンサー
+
+     | [株式会社RAPiC](http://rapic.jp/) |
+
+   * トークタイトル
+      * 「DeepLocker: AI-embedded attack」 高江洲勲 / 三井物産セキュアディレクション株式会社
+      * 「はじめてのOWASP Top10 2017 - A6:不適切なセキュリティ設定」千葉 翔也/ 東北工業大学 ＆ セキュリティ初心者やまだくん
+
+## OWASP Sendai ミーティング 31
+   * 2019年1月30日(水) 18:30～20:30 [@ソシラボ](http://socilabo.com/)
+   * Venue スポンサー
+
+     | [株式会社RAPiC](http://rapic.jp/) |
+
+   * トークタイトル
+      * 「USBの危険性」 小田 保之
+      * 「はじめてのOWASP Top10 2017：A5アクセス制御の不備」千葉 翔也/ 東北工業大学 ＆ セキュリティ初心者やまだくん
+
+## OWASP Sendai ミーティング 30 Whiskey Bash
+   * 2018年12月12日(水) 18:30～21:00 [@ソシラボ](http://socilabo.com/)
+   * Venue スポンサー
+
+     | [株式会社RAPiC](http://rapic.jp/) |
 
 ## OWASP Sendai ミーティング 29
    * 2018年11月21日(水) 18:30～20:30 [@ソシラボ](http://socilabo.com/)
