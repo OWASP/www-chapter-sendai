@@ -38,7 +38,7 @@ tags: sendai-tag
 
    * トークタイトル
       * 「はじめてのOWASP Top10 2017： A4 XML外部エンティティ参照」 セキュリティ初心者やまだくん & 千葉翔也 / 東北工業大学
-      * 「開発・運用者のためのOWASP ZAPヘッドレスモードでの脆弱性スキャン」小笠貴晴 / OWASP Sendai Local Chapter Leader / 株式会社セキュリティイニシアティブ @TakaharuOgas
+      * 「開発・運用者のためのOWASP ZAPヘッドレスモードでの脆弱性スキャン」小笠貴晴 / OWASP Sendai Local Chapter Leader / 株式会社セキュリティイニシアティブ / @TakaharuOgasa
 
 ## OWASP Sendai ミーティング 27
    * 2018年8月29日(水) 18:30～20:30 [@ソシラボ](http://socilabo.com/)
@@ -47,59 +47,46 @@ tags: sendai-tag
      | [株式会社RAPiC](http://rapic.jp/) |
 
    * トークタイトル
- 「はじめてのOWASP Top10 2017： A3 機微な情報の露出」セキュリティ初心者やまだくん & 千葉 翔也（東北工業大学）
-
-      * WEB開発者が知っておくべきGitハッキング」小笠貴晴（OWASP Sendai Local Chapter Leader /
-株式会社セキュリティイニシアティブ @TakaharuOgasa）
+       * 「はじめてのOWASP Top10 2017： A3 機微な情報の露出」セキュリティ初心者やまだくん & 千葉 翔也（東北工業大学）
+       * 「WEB開発者が知っておくべきGitハッキング」小笠貴晴（OWASP Sendai Local Chapter Leader / 株式会社セキュリティイニシアティブ / @TakaharuOgasa
 
 ## OWASP Sendai ミーティング 26
-
-2018年7月13日(金) 18:30～20:30 [@ソシラボ](http://socilabo.com/)
-
+   * 2018年7月13日(金) 18:30～20:30 [@ソシラボ](http://socilabo.com/)
    * Venue スポンサー
 
      | [株式会社RAPiC](http://rapic.jp/) |
 
    * トークタイトル
-      * 運転支援技術に関するセキュリティの研究動向について」 新井悠 (トレンドマイクロ)
+      * 「運転支援技術に関するセキュリティの研究動向について」 新井悠 (トレンドマイクロ)
 
 ## OWASP Sendai ミーティング 25
-
-2018年6月27日(水) 18:30～20:30 [@ソシラボ](http://socilabo.com/)
-
+   * 2018年6月27日(水) 18:30～20:30 [@ソシラボ](http://socilabo.com/)
    * Venue スポンサー
 
      | [株式会社RAPiC](http://rapic.jp/) |
 
    * トークタイトル
-      * 情報セキュリティマネジメントへの道 ～アラフィフ女の腕まくり～」 高橋そのみ (OWASP Sendai Local Chapter
-Leader)
-
-      * セキュリティ初心者のためのOWASP Top10 2017： A2 認証の不備」セキュリティ初心者やまだくん
+      * 「情報セキュリティマネジメントへの道 ～アラフィフ女の腕まくり～」 高橋そのみ (OWASP Sendai Local Chapter Leader)
+      * 「セキュリティ初心者のためのOWASP Top10 2017： A2 認証の不備」セキュリティ初心者やまだくん
 
 ## OWASP Sendai ミーティング 24
-
-2018年5月30日(水) 18:30～20:30 [@ソシラボ](http://socilabo.com/)
-
+   * 2018年5月30日(水) 18:30～20:30 [@ソシラボ](http://socilabo.com/)
    * Venue スポンサー
 
      | [株式会社RAPiC](http://rapic.jp/) |
 
    * トークタイトル
-      * Trends and Strategies for Securing The Internet Of Things (IoT)」 Ade Yoseman Putra (OWASP Jakarta Local Chapter Leader / OWASP Securetea Project Leader)
-
-通訳：小笠貴晴 （OWASP Sendai Local Chapter Leader / 株式会社セキュリティイニシアティブ）
+      * 「Trends and Strategies for Securing The Internet Of Things (IoT)」 Ade Yoseman Putra / OWASP Jakarta Local Chapter Leader / OWASP Securetea Project Leader
+        ※ 通訳：小笠貴晴 / OWASP Sendai Local Chapter Leader / 株式会社セキュリティイニシアティブ
 
 ## OWASP Sendai ミーティング 23
-
-2018年4月27日(金) 18:30～20:30 [@ソシラボ](http://socilabo.com/)
-
+   * 2018年4月27日(金) 18:30～20:30 [@ソシラボ](http://socilabo.com/)
    * Venue スポンサー
 
      | [株式会社RAPiC](http://rapic.jp/) |
 
    * トークタイトル
-      * Attack & Defense Sendai 解説」 服部祐一 / OWASP Kyushu Local Chapter Leader
+      * 「Attack & Defense Sendai 解説」 服部祐一 / OWASP Kyushu Local Chapter Leader
 
 ## OWASP Sendai ミーティング 22
 
@@ -264,10 +251,8 @@ Leader)
      | [株式会社RAPiC](http://rapic.jp/) |
 
    * トークタイトル
-- ビアバッシュ
-- ライトニングトーク
-
-
+      * ビアバッシュ
+      * ライトニングトーク
 
 ## 2016 OWASP Sendai ミーティング 9
 
@@ -284,7 +269,6 @@ Leader)
 ## 2016 OWASP Sendai ミーティング 8
 
 2016年10月18日(火) 19:00～20:30 [@ソシラボ](http://socilabo.com/)
-
    * Venue スポンサー
 
      | [株式会社RAPiC](http://rapic.jp/) |
@@ -292,7 +276,7 @@ Leader)
    * トークタイトル
       * 最近のダークネット観測事例」　角田裕准教授 / 東北工業大学　情報通信工学科　
       * セッションライディング CSRFをデモで完全理解しよう」　小笠貴晴, GWAPT / 株式会社セキュリティイニシアティブ, OWASP仙台チャプターリーダー
-- フラッシュトーク
+      * ライトニングトーク
 
 ## 2016 OWASP Sendai ミーティング 7
 
@@ -315,9 +299,9 @@ Leader)
      | [株式会社RAPiC](http://rapic.jp/) |
 
    * トークタイトル
-      * OWASP TOP10をもう一度基礎から見なおそう　A6機密データの露出」　小笠貴晴
-      * ネットワークが盗聴されている？（＋実演デモ）」　佐藤陽亮
-      * OWASP TOP10をもう一度基礎から見なおそう　A7機能レベルアクセス制御の欠落」　小笠貴晴
+      * 「OWASP TOP10をもう一度基礎から見なおそう　A6機密データの露出」　小笠貴晴
+      * 「ネットワークが盗聴されている？（＋実演デモ）」　佐藤陽亮
+      * 「OWASP TOP10をもう一度基礎から見なおそう　A7機能レベルアクセス制御の欠落」　小笠貴晴
 
 ## 2016 OWASP Sendai ミーティング 5
 
@@ -328,9 +312,9 @@ Leader)
      | [株式会社RAPiC](http://rapic.jp/) |
 
    * トークタイトル
-      * OWASP TOP10をもう一度基礎から見なおそう　A4安全でないオブジェクト直接参照」　小笠貴晴
-      * そのみんずバーにおけるコミュニケーションの一考察」　高橋そのみ
-      * OWASP TOP10をもう一度基礎から見なおそう　A5セキュリティ設定のミス」　小笠貴晴
+      * 「OWASP TOP10をもう一度基礎から見なおそう　A4安全でないオブジェクト直接参照」　小笠貴晴
+      * 「そのみんずバーにおけるコミュニケーションの一考察」　高橋そのみ
+      * 「OWASP TOP10をもう一度基礎から見なおそう　A5セキュリティ設定のミス」　小笠貴晴
 
 ## 2016 OWASP Sendai ミーティング 4
 
