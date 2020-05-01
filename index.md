@@ -32,7 +32,7 @@ OWASP - Open Web Application Security Project
 
 寄付によりOWASP Sendaiチャプターの活動に貢献していただいているスポンサー様の一覧です。
 
-### ゴールドチャプタースポンサー
+## ゴールドチャプタースポンサー
 
 | [<img src="assets/images/securityinitiative.png" height="80px">](https://security-initiative.co.jp) |
 

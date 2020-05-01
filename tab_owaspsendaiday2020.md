@@ -12,12 +12,12 @@ OWASP Sendai発足4周年とローカルチャプターミーティング通算4
 
 ## ゴールドスポンサー
 
-| [<img src="assets/images/securityinitiative.png" height="80px">](https://security-initiative.co.jp) |
+| [<img src="assets/images/securityinitiative.png" height="60px">](https://security-initiative.co.jp) |
 
 ## ブロンズスポンサー
 
-| [<img src="assets/images/extech.png" height="70px">](https://www.facebook.com/extechSendai) | [<img src="assets/images/SRIA.png" height="70px">](https://sria.co.jp/) |
-| [<img src="assets/images/zeusec.png" height="70px">](https://zeusec.co.jp/) | [株式会社RAPiC](http://rapic.jp/) |
+| [<img src="assets/images/extech.png" height="60px">](https://www.facebook.com/extechSendai) | [<img src="assets/images/SRIA.png" height="60px">](https://sria.co.jp/) |
+| [<img src="assets/images/zeusec.png" height="60px">](https://zeusec.co.jp/) | [株式会社RAPiC](http://rapic.jp/) |
 
 ## スピーカースポンサー
 スピーカーの皆様の当イベント参加のために貴重なリソース支援していただいた企業様です。
@@ -27,7 +27,7 @@ OWASP Sendai発足4周年とローカルチャプターミーティング通算4
 
 ## 会場スポンサー
 
-| [<img src="assets/images/enspace.png" height="70px">](https://www.enspace.work/) |
+| [<img src="assets/images/enspace.png" height="60px">](https://www.enspace.work/) |
 
 ## キーノートスピーカーのみなさま(50音順)
 * Soya Aoyama (@SoyaAoyama) / 富士通システム統合研究所
