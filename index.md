@@ -40,8 +40,7 @@ OWASP - Open Web Application Security Project
 
 #### 参加お申し込み
 
-TBA
-<!--[お申し込みページへ](https://owaspsendai.connpass.com/event/132635/)-->
+[お申し込みページへ](https://owaspsendai.connpass.com/event/175125/)
 
 
 
