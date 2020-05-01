@@ -26,6 +26,7 @@ OWASP - Open Web Application Security Project
 とは、Webをはじめとするソフトウェアのセキュリティ環境の現状、またセキュアなソフトウェア開発を促進する技術・プロセスに関する情報共有と普及啓発を目的としたプロフェッショナルの集まる、非営利のオープンソース・ソフトウェアコミュニティです。OWASPのチャプターミーティングでのスピーカーとしての参加ご希望の方は、 [speaker agreement](https://owasp.org/www-policy/legal/speaker-agreement)をご覧いただき、ローカルチャプターのリーダーにご連絡の上、プレゼンテーションしたいトピックをお知らせ下さい。
 
 ---
+---
 
 # チャプタースポンサー
 
@@ -35,6 +36,7 @@ OWASP - Open Web Application Security Project
 
 | [<img src="assets/images/securityinitiative.png" height="80px">](https://security-initiative.co.jp) |
 
+---
 ---
 
 # 次回のミーティング
