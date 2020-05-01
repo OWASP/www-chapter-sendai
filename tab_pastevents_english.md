@@ -236,68 +236,40 @@ tags: sendai-tag
       * "Understanding the Basic Knowledge of OWASP TOP 10 2013 A7 Missing Function Level Access Control" Takaharu Ogasa, GWAPT / OWASP Sendai / Security Initiative
 
 ## 2016 OWASP Sendai Meeting 5
-
-14 June 2016 19:00 - 20:30 [@Socilabo](http://socilabo.com/)
-
-  -    * Venue Sponsor
+   * 14 June 2016 19:00 - 20:30 [@Socilabo](http://socilabo.com/)
+   * Venue Sponsor
 
      | [RAPiC Inc.](http://rapic.jp/) |
 
-
-
-  - Understanding the Basic Knowledge of OWASP TOP 10 2013 A4 Insecure
-    Direct Object References / Speaker: Takaharu Ogasa, OWASP Sendai
-    Chapter Leader
-  - Discussing the Importance of Socialized Lifestyle for Application
-    Engineers / Speaker: Sonomi Takahashi, OWASP Sendai Chapter Board
-  - Understanding the Basic Knowledge of OWASP TOP 10 2013 A5 Security
-    Misconfiguration / Speaker: Takaharu Ogasa, OWASP Sendai Chapter
-    Leader
-
-
+   * Talk Topics
+      * "Understanding the Basic Knowledge of OWASP TOP 10 2013 A4 Insecure Direct Object References" Takaharu Ogasa, GWAPT / OWASP Sendai / Security Initiative
+      * "Discussing the Importance of Socialized Lifestyle for Application Engineers" Sonomi Takahashi / OWASP Sendai Chapter Board
+      * "Understanding the Basic Knowledge of OWASP TOP 10 2013 A5 Security Misconfiguration" Takaharu Ogasa, GWAPT / OWASP Sendai Chapter / Security Initiative
 
 ## 2016 OWASP Sendai Meeting 4
-
-24 May 2016 19:00 - 20:30 [@Socilabo](http://socilabo.com/)
-
-  - XSS Browser Hacking Demo / Speaker: Takaharu Ogasa, OWASP Sendai
-    Chapter Leader
-  - Understanding basic knowledge of OWASP TOP 10 2013 A2 Broken
-    Authentication and Session Management / Speaker: Takaharu Ogasa,
-    OWASP Sendai Chapter Leader
+   * 24 May 2016 19:00 - 20:30 [@Socilabo](http://socilabo.com/)
+   * Talk Topics
+      * "XSS Browser Hacking Demo" Takaharu Ogasa, GWAPT / OWASP Sendai / Security Initiative
+      * "Understanding basic knowledge of OWASP TOP 10 2013 A2 Broken Authentication and Session Management" Takaharu Ogasa, GWAPT / OWASP Sendai / Security Initiative
 
 
 
 ## 2016 OWASP Sendai Meeting 3
-
-26 Apr 2016 18:30 - 21:00 [@Socilabo](http://socilabo.com/)
-
-  - Recent Darknet Observation Reports / Speaker: Associate Professor
-    HIroshi Usunoda, PhD, Tohoku Institute Of Technology
-  - Understanding basic knowledge of OWASP TOP 10 2013 A3 XSS / Speaker:
-    Shota Sato , OWASP Sendai Chapter Board Member
-  - After Party (Light snacks and drinks provided)
-
-
+   * 26 Apr 2016 18:30 - 21:00 [@Socilabo](http://socilabo.com/)
+   * Talk Topics
+      * "Recent Darknet Observation Reports" Hiroshi Usunoda, PhD / Tohoku Institute Of Technology
+      * "Understanding basic knowledge of OWASP TOP 10 2013 A3 XSS" Shota Sato / OWASP Sendai Chapter Board Member
+      * After Party (Light snacks and drinks provided)
 
 ## 2016 OWASP Sendai Meeting 2
-
-23 Feb 2016 18:00 - 21:00 [@Socilabo](http://socilabo.com/)
-
-  - From pentester's perspective: Targeted attack methodology explained
-    / Speaker: Takaharu Ogasa
-  - Who knows what?? Sharing your security knowledge with others using
-    mindmap / Speaker: Shota Sato
-  - Preparation for introducing OWASP TOP 10 Proactive Controls:
-    Understanding basic knowledge of OWASP TOP 10 2013 - A1 Injection /
-    Speaker: Takaharu Ogasa
-
-
+   * 23 Feb 2016 18:00 - 21:00 [@Socilabo](http://socilabo.com/)
+   * Talk Topics
+      * "From the pentester's perspective: Targeted attack methodology explained" Takaharu Ogasa
+      * "Who knows what? Sharing your security knowledge with others using mindmap" Shota Sato
+      * "Understanding basic knowledge of OWASP TOP 10 2013 - A1 Injection" Takaharu Ogasa, GWAPT / OWASP Sendai / Security Initiative
 
 ## 2016 OWASP Sendai Meeting 1
-
-27 Jan 2016 18:00 - 20:00 [@Socilabo](http://socilabo.com/)
-
-  - A Secret Practice to Achieve Application Security / Speaker: Riotaro
-    Okada
-  - 5 Common Mistakes Developers Make / Speaker: Takaharu Ogasa
+   * 27 Jan 2016 18:00 - 20:00 [@Socilabo](http://socilabo.com/)
+   * Talk Topics
+      * "A Secret Practice to Achieve Application Security" Riotaro Okada / OWASP Japan
+      * "5 Common Mistakes Developers Make" Takaharu Ogasa / OWASP Sendai / Security Initiative
