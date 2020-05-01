@@ -25,6 +25,10 @@ OWASP Sendai発足4周年とローカルチャプターミーティング通算4
 | [<img src="assets/images/ierae.jpg" height="60px">](https://ierae.co.jp/) | [<img src="assets/images/nflaboratories.jpg" height="60px">](https://nflaboratories.co.jp/) | [<img src="assets/images/CapyInc.png" height="60px">](https://www.capy.me/jp/) |
 | [<img src="assets/images/CAAdvance.png" height="60px">](https://www.ca-adv.co.jp/) | [<img src="assets/images/SecureSkyTechnologyInc.png" height="60px">](https://www.securesky-tech.com) | [株式会社RAPiC](http://rapic.jp/) |
 
+## 会場スポンサー
+
+| [<img src="assets/images/enspace.png" height="50px">](https://www.enspace.work/) |
+
 ## キーノートスピーカーのみなさま(50音順)
 * Soya Aoyama (@SoyaAoyama) / 富士通システム統合研究所
 * 小田 保之 (@yas55224740) / 個人
