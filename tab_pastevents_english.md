@@ -7,53 +7,46 @@ order: 4
 tags: sendai-tag
 ---
 
-## Past Meetings
+# Past Meetings
 
-### \[2018 OWASP Sendai Meeting 28\]
+## 2018 OWASP Sendai Meeting 28
+   * 24 October 2018 [@Socilabo](http://socilabo.com/)
+   * Venue Sponsor
 
-24 October 2018 [@Socilabo](http://socilabo.com/)
+     | [株式会社RAPiC](http://rapic.jp/) |
 
-Venue Sponsor
+   * Talk Topics
+      * OWASP Top10 2017 For Beginners : A5 XML External Entities (XXE) - Yamada-kun & Shoya Chiba / Tohoku Institute Of Technology
+      * Automated Vulnerability Scans with OWASP ZAP Headless Mode - Takaharu Ogasa / OWASP Sendai / Security Initiative
 
-[This meeting was presented by Rapic Inc.](http://socilabo.com/)
+## 2018 OWASP Sendai Meeting 27
+   * 29 Aug 2018 [@Socilabo](http://socilabo.com/)
+   * Venue Sponsor
 
-  - OWASP Top10 2017 For Beginners : A5 XML External Entities (XXE) -
-    Speaker: Yamada-kun, Shoya Chiba (Tohoku Institute Of Technology)
-  - Automated Vulnerability Scans with OWASP ZAP Headless Mode -
-    Speaker: Takaharu Ogasa (OWASP Sendai Local Chapter Leader /
-    Security Initiative)
+     | [株式会社RAPiC](http://rapic.jp/) |
 
-### \[2018 OWASP Sendai Meeting 27\]
+   * Talk Topics
+      * OWASP Top10 2017 For Beginners : A3 Sensitive Data Exposure - Yamada-kun & Shoya Chiba / Tohoku Institute Of Technology
+      * Git Hacks Developer Need to Know - Takaharu Ogasa / OWASP Sendai / Security Initiative
 
-29 Aug 2018 [@Socilabo](http://socilabo.com/)
+## 2018 OWASP Sendai Meeting 26
+   * 13 July 2018 [@Socilabo](http://socilabo.com/)
+   * Venue Sponsor
 
-Venue Sponsor
+     | [株式会社RAPiC](http://rapic.jp/) |
 
-[This meeting was presented by Rapic Inc.](http://socilabo.com/)
+   * Talk Topics
+      * Recent Study on Driving Support Technology - Yu Arai / TrendMicro
 
-  - OWASP Top10 2017 For Beginners : A3 Sensitive Data Exposure -
-    Speaker: Yamada-kun, Shoya Chiba (Tohoku Institute Of Technology)
-  - Git Hacks Developer Need to Know - Speaker: Takaharu Ogasa (OWASP
-    Sendai Local Chapter Leader / Security Initiative)
-
-### \[2018 OWASP Sendai Meeting 26\]
-
-13 July 2018 [@Socilabo](http://socilabo.com/)
-
-Venue Sponsor
-
-[This meeting was presented by Rapic Inc.](http://socilabo.com/)
-
-  - Recent Study on Driving Support Technology - Speaker: Yu Arai (Trend
-    Micro)
-
-### \[2018 OWASP Sendai Meeting 25\]
+## 2018 OWASP Sendai Meeting 25
 
 27 June 2018 [@Socilabo](http://socilabo.com/)
 
-Venue Sponsor
+   * Venue Sponsor
 
-[This meeting was presented by Rapic Inc.](http://socilabo.com/)
+     | [株式会社RAPiC](http://rapic.jp/) |
+
+
 
   - Challenging Information Security Management Certificate - Speaker:
     Sonomi Takahashi (OWASP Sendai Local Chapter Leader / Rapic Inc.)
@@ -63,69 +56,81 @@ Venue Sponsor
   - OWASP Top10 2017 For Beginners : A2 Broken Authentication - Speaker:
     Yamada-kun
 
-### \[2018 OWASP Sendai Meeting 24\]
+## 2018 OWASP Sendai Meeting 24
 
 30 May. 2018 [@Socilabo](http://socilabo.com/)
 
-Venue Sponsor
+   * Venue Sponsor
 
-[This meeting was presented by Rapic Inc.](http://socilabo.com/)
+     | [株式会社RAPiC](http://rapic.jp/) |
+
+
 
   - Trends and Strategies for Securing The Internet Of Things (IoT) -
     Speaker: Ade Yoseman Putra (OWASP Jakarta Local Chapter Leader /
     OWASP Scuretea Project Leader), Interpreter: Takaharu Ogasa (OWASP
     Sendai Local Chapter Leader / Security Initiative)
 
-### \[2018 OWASP Sendai Meeting 23\]
+## 2018 OWASP Sendai Meeting 23
 
 27 Apr. 2018 [@Socilabo](http://socilabo.com/)
 
-Venue Sponsor
+   * Venue Sponsor
 
-[This meeting was presented by Rapic Inc.](http://socilabo.com/)
+     | [株式会社RAPiC](http://rapic.jp/) |
+
+
 
 Attack & Defense Sendai : Solutions explained / Speaker: Yuichi Hattori
 (OWASP Kyushu Local Chapter Leader)
 
-### \[2018 OWASP Sendai Meeting 22\]
+## 2018 OWASP Sendai Meeting 22
 
 20 Mar. 2018 [@Socilabo](http://socilabo.com/)
 
-Venue Sponsor
+   * Venue Sponsor
 
-[This meeting was presented by Rapic Inc.](http://socilabo.com/)
+     | [株式会社RAPiC](http://rapic.jp/) |
+
+
 
 Zeroday Market / Speaker: Kana Shinoda (CEO, Blue Inc. / CODE BLUE)
 
-### \[2018 OWASP Sendai Meeting 21\]
+## 2018 OWASP Sendai Meeting 21
 
 26 Feb. 2018 [@Socilabo](http://socilabo.com/)
 
-Venue Sponsor
+   * Venue Sponsor
 
-[This meeting was presented by Rapic Inc.](http://socilabo.com/)
+     | [株式会社RAPiC](http://rapic.jp/) |
+
+
 
 Security by the numbers - Speaker: Eoin Keary (edgescan), Interpreter:
 Takaharu Ogasa (OWASP Sendai Local Chapter Leader / Security Initiative)
 
-### \[2018 OWASP Sendai Meeting 20\]
+## 2018 OWASP Sendai Meeting 20
 
 29 Nov. 2017 [@Socilabo](http://socilabo.com/)
 
-Venue Sponsor
+   * Venue Sponsor
 
-[This meeting was presented by Rapic Inc.](http://socilabo.com/)
+     | [株式会社RAPiC](http://rapic.jp/) |
+
+
 
   - SQL Injection 101 with sqli-labs - Speaker: Ken Kitahara (Lac Inc. /
     OWASP Japan)
   - Introducing OWASP Juice Shop - Speaker: Takaharu Ogasa (OWASP Sendai
     Local Chapter Leader)
 
-### \[2017 OWASP Sendai Meeting 19\]
+## 2017 OWASP Sendai Meeting 19
 
 29 Nov. 2017 [@Socilabo](http://socilabo.com/)
 
-[Venue Sponsor](http://socilabo.com/)
+[   * Venue Sponsor
+
+     | [株式会社RAPiC](http://rapic.jp/) |](http://socilabo.com/)
 
 This meeting was presented by Rapic Inc.
 
@@ -137,11 +142,13 @@ This meeting was presented by Rapic Inc.
     Exploit Framework/ Speaker: Takaharu Ogasa, GWAPT (CEO, Security
     Initiative Co., Ltd. / OWASP Sendai Chapter Leader)
 
-### \[2017 OWASP Sendai Meeting 18\]
+## 2017 OWASP Sendai Meeting 18
 
 19 Oct 2017 [@Socilabo](http://socilabo.com/)
 
-#### Venue Sponsor
+###    * Venue Sponsor
+
+     | [株式会社RAPiC](http://rapic.jp/) |
 
 This meeting was presented by Rapic Inc.
 
@@ -153,20 +160,24 @@ This meeting was presented by Rapic Inc.
   - How to escalate privileges to administrator in latest Windows /
     Speaker: Soya Aoyama / Fujitsu System Integration Labs.
 
-### \[2017 OWASP Sendai Meeting 17\]
+## 2017 OWASP Sendai Meeting 17
 
 1 Sep 2017　[@Socilabo](http://socilabo.com/)
 
-#### Venue Sponsor
+###    * Venue Sponsor
+
+     | [株式会社RAPiC](http://rapic.jp/) |
 
   - Mining Meteor / Speaker: Tim Medin, SANS Certified Instructor
     (Director, The October 27th Group)
 
-### \[2017 OWASP Sendai Meeting 16\]
+## 2017 OWASP Sendai Meeting 16
 
 12 July 2017　[@Socilabo](http://socilabo.com/)
 
-#### Venue Sponsor
+###    * Venue Sponsor
+
+     | [株式会社RAPiC](http://rapic.jp/) |
 
   - Best Practice to Configure TLS/SSL on Big Three Web Servers /
     Speaker: Hidetoshi Musha, CISSP (CEO, Muudoo Security Inc.)
@@ -174,33 +185,39 @@ This meeting was presented by Rapic Inc.
     Ogasa, GWAPT (CEO, Security Initiative Co., Ltd. / OWASP Sendai
     Chapter Leader)
 
-### \[2017 OWASP Sendai Meeting 15\]
+## 2017 OWASP Sendai Meeting 15
 
 14 Jun 2017　[@Socilabo](http://socilabo.com/)
 
-#### Venue Sponsor
+###    * Venue Sponsor
+
+     | [株式会社RAPiC](http://rapic.jp/) |
 
   - Developing Your Own Vulnerability Scanner With Python / Speaker:
     Yuichi Hattori (OWASP Kyushu Local Chapter Leader)
   - OWASP Top 10 Explained A10 / Speaker: Takaharu Ogasa, GWAPT (CEO,
     Security Initiative Co., Ltd. / OWASP Sendai Chapter Leader)
 
-### \[2017 OWASP Sendai Meeting 14\]
+## 2017 OWASP Sendai Meeting 14
 
 19 Apr 2017　[@Socilabo](http://socilabo.com/)
 
-#### Venue Sponsor
+###    * Venue Sponsor
+
+     | [株式会社RAPiC](http://rapic.jp/) |
 
   - Computer Science Looking Through the CTF Perspective / Speaker:
     Yoshihiro Isago (Onsite Inc.)
   - Encouraging for Infosec Certifications / Speaker: Katsuya Ito
     (Tohoku Computer College, Department of Network Security)
 
-### \[2017 OWASP Sendai Meeting 13\]
+## 2017 OWASP Sendai Meeting 13
 
 15 Mar 2017　[@Socilabo](http://socilabo.com/)
 
-#### Venue Sponsor
+###    * Venue Sponsor
+
+     | [株式会社RAPiC](http://rapic.jp/) |
 
   - Security Operation / Speaker: Masahito Yamaga (CSIRT Researcher)
   - Understanding OWASP TOP 10 with Attacker's View - A9 / Speaker:
@@ -209,11 +226,13 @@ This meeting was presented by Rapic Inc.
 
 
 
-### \[2017 OWASP Sendai Meeting 12\]
+## 2017 OWASP Sendai Meeting 12
 
 15 Feb 2017　[@Socilabo](http://socilabo.com/)
 
-#### Venue Sponsor
+###    * Venue Sponsor
+
+     | [株式会社RAPiC](http://rapic.jp/) |
 
 This meeting was presented by Rapic Inc.
 
@@ -225,11 +244,13 @@ This meeting was presented by Rapic Inc.
 
 
 
-### \[2017 OWASP Sendai Meeting 11\]
+## 2017 OWASP Sendai Meeting 11
 
 18 January 2017 18:45 - 20:30 [@Socilabo](http://socilabo.com/)
 
-#### Venue Sponsor
+###    * Venue Sponsor
+
+     | [株式会社RAPiC](http://rapic.jp/) |
 
 This meeting was presented by Rapic Inc.
 
@@ -240,11 +261,13 @@ This meeting was presented by Rapic Inc.
 
 
 
-### \[2016 OWASP Sendai Meeting 10 Beer Bash\]
+## 2016 OWASP Sendai Meeting 10 Beer Bash
 
 8 December 2016 18:30 - 21:00 [@Socilabo](http://socilabo.com/)
 
-#### Venue Sponsor
+###    * Venue Sponsor
+
+     | [株式会社RAPiC](http://rapic.jp/) |
 
 This meeting was presented by Rapic Inc. and Security Initiative Inc.
 
@@ -252,11 +275,13 @@ This meeting was presented by Rapic Inc. and Security Initiative Inc.
 
 
 
-### \[2016 OWASP Sendai Meeting 9\]
+## 2016 OWASP Sendai Meeting 9
 
 16 November 2016 19:00 - 20:30 [@Socilabo](http://socilabo.com/)
 
-#### Venue Sponsor
+###    * Venue Sponsor
+
+     | [株式会社RAPiC](http://rapic.jp/) |
 
 This meeting was presented by Rapic Inc.
 
@@ -267,11 +292,13 @@ This meeting was presented by Rapic Inc.
 
 
 
-### \[2016 OWASP Sendai Meeting 8\]
+## 2016 OWASP Sendai Meeting 8
 
 18 October 2016 19:00 - 20:30 [@Socilabo](http://socilabo.com/)
 
-#### Venue Sponsor
+###    * Venue Sponsor
+
+     | [株式会社RAPiC](http://rapic.jp/) |
 
 This meeting was presented by Rapic Inc.
 
@@ -282,11 +309,13 @@ This meeting was presented by Rapic Inc.
 
 
 
-### \[2016 OWASP Sendai Meeting 7\]
+## 2016 OWASP Sendai Meeting 7
 
 6 September 2016 19:00 - 20:30 [@Socilabo](http://socilabo.com/)
 
-#### Venue Sponsor
+###    * Venue Sponsor
+
+     | [株式会社RAPiC](http://rapic.jp/) |
 
 This meeting was presented by Rapic Inc.
 
@@ -297,11 +326,13 @@ This meeting was presented by Rapic Inc.
 
 
 
-### \[2016 OWASP Sendai Meeting 6\]
+## 2016 OWASP Sendai Meeting 6
 
 12 July 2016 19:00 - 20:30 [@Socilabo](http://socilabo.com/)
 
-#### Venue Sponsor
+###    * Venue Sponsor
+
+     | [株式会社RAPiC](http://rapic.jp/) |
 
 This meeting was presented by Rapic Inc.
 
@@ -315,11 +346,13 @@ This meeting was presented by Rapic Inc.
 
 
 
-### \[2016 OWASP Sendai Meeting 5\]
+## 2016 OWASP Sendai Meeting 5
 
 14 June 2016 19:00 - 20:30 [@Socilabo](http://socilabo.com/)
 
-  - Venue Sponsor
+  -    * Venue Sponsor
+
+     | [株式会社RAPiC](http://rapic.jp/) |
 
 This meeting was presented by Rapic Inc.
 
@@ -334,7 +367,7 @@ This meeting was presented by Rapic Inc.
 
 
 
-### \[2016 OWASP Sendai Meeting 4\]
+## 2016 OWASP Sendai Meeting 4
 
 24 May 2016 19:00 - 20:30 [@Socilabo](http://socilabo.com/)
 
@@ -346,7 +379,7 @@ This meeting was presented by Rapic Inc.
 
 
 
-### \[2016 OWASP Sendai Meeting 3\]
+## 2016 OWASP Sendai Meeting 3
 
 26 Apr 2016 18:30 - 21:00 [@Socilabo](http://socilabo.com/)
 
@@ -358,7 +391,7 @@ This meeting was presented by Rapic Inc.
 
 
 
-### \[2016 OWASP Sendai Meeting 2\]
+## 2016 OWASP Sendai Meeting 2
 
 23 Feb 2016 18:00 - 21:00 [@Socilabo](http://socilabo.com/)
 
@@ -372,7 +405,7 @@ This meeting was presented by Rapic Inc.
 
 
 
-### \[2016 OWASP Sendai Meeting 1\]
+## 2016 OWASP Sendai Meeting 1
 
 27 Jan 2016 18:00 - 20:00 [@Socilabo](http://socilabo.com/)
 
