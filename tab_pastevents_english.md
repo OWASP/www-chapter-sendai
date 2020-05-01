@@ -16,8 +16,8 @@ tags: sendai-tag
      | [RAPiC Inc.](http://rapic.jp/) |
 
    * Talk Topics
-      * OWASP Top10 2017 For Beginners : A5 XML External Entities (XXE) - Yamada-kun & Shoya Chiba / Tohoku Institute Of Technology
-      * Automated Vulnerability Scans with OWASP ZAP Headless Mode - Takaharu Ogasa / OWASP Sendai / Security Initiative
+      * "OWASP Top10 2017 For Beginners : A5 XML External Entities (XXE)" Yamada-kun & Shoya Chiba / Tohoku Institute Of Technology
+      * "Automated Vulnerability Scans with OWASP ZAP Headless Mode" Takaharu Ogasa / OWASP Sendai / Security Initiative
 
 ## 2018 OWASP Sendai Meeting 27
    * 29 Aug 2018 [@Socilabo](http://socilabo.com/)
@@ -26,8 +26,8 @@ tags: sendai-tag
      | [RAPiC Inc.](http://rapic.jp/) |
 
    * Talk Topics
-      * OWASP Top10 2017 For Beginners : A3 Sensitive Data Exposure - Yamada-kun & Shoya Chiba / Tohoku Institute Of Technology
-      * Git Hacks Developer Need to Know - Takaharu Ogasa / OWASP Sendai / Security Initiative
+      * "OWASP Top10 2017 For Beginners : A3 Sensitive Data Exposure" Yamada-kun & Shoya Chiba / Tohoku Institute Of Technology
+      * "Git Hacks Developer Need to Know" Takaharu Ogasa / OWASP Sendai / Security Initiative
 
 ## 2018 OWASP Sendai Meeting 26
    * 13 July 2018 [@Socilabo](http://socilabo.com/)
@@ -36,7 +36,7 @@ tags: sendai-tag
      | [RAPiC Inc.](http://rapic.jp/) |
 
    * Talk Topics
-      * Recent Study on Driving Support Technology - Yu Arai / TrendMicro
+      * "Recent Study on Driving Support Technology" Yu Arai / TrendMicro
 
 ## 2018 OWASP Sendai Meeting 25
    * 27 June 2018 [@Socilabo](http://socilabo.com/)
@@ -45,8 +45,8 @@ tags: sendai-tag
      | [RAPiC Inc.](http://rapic.jp/) |
 
    * Talk Topics
-      * Challenging Information Security Management Certificate - Sonomi Takahashi / OWASP Sendai / Rapic Inc.
-      * OWASP Top10 2017 For Beginners : A2 Broken Authentication - Yamada-kun
+      * "Challenging Information Security Management Certificate" Sonomi Takahashi / OWASP Sendai / Rapic Inc.
+      * "OWASP Top10 2017 For Beginners : A2 Broken Authentication" Yamada-kun
 
 ## 2018 OWASP Sendai Meeting 24
    * 30 May. 2018 [@Socilabo](http://socilabo.com/)
@@ -55,163 +55,115 @@ tags: sendai-tag
      | [RAPiC Inc.](http://rapic.jp/) |
 
    * Talk Topics
-      * Trends and Strategies for Securing The Internet Of Things (IoT) -Ade Yoseman Putra / OWASP Jakarta Local Chapter Leader / OWASP Scuretea Project Leader
+      * "Trends and Strategies for Securing The Internet Of Things (IoT)" Ade Yoseman Putra / OWASP Jakarta Local Chapter Leader / OWASP Scuretea Project Leader
          * Interpreter: Takaharu Ogasa / OWASP Sendai / Security Initiative
 
 ## 2018 OWASP Sendai Meeting 23
-
-27 Apr. 2018 [@Socilabo](http://socilabo.com/)
-
+   * 27 Apr. 2018 [@Socilabo](http://socilabo.com/)
    * Venue Sponsor
 
      | [RAPiC Inc.](http://rapic.jp/) |
 
-
-
-Attack & Defense Sendai : Solutions explained / Speaker: Yuichi Hattori
-(OWASP Kyushu Local Chapter Leader)
+   * Talk Topics
+      * "Attack & Defense Sendai : Solutions explained" Yuichi Hattori / OWASP Kyushu Local Chapter Leader
 
 ## 2018 OWASP Sendai Meeting 22
-
-20 Mar. 2018 [@Socilabo](http://socilabo.com/)
-
+   * 20 Mar. 2018 [@Socilabo](http://socilabo.com/)
    * Venue Sponsor
 
      | [RAPiC Inc.](http://rapic.jp/) |
 
-
-
-Zeroday Market / Speaker: Kana Shinoda (CEO, Blue Inc. / CODE BLUE)
+   * Talk Topics
+      * "Zeroday Market" Kana Shinoda / CEO, Blue Inc. / CODE BLUE
 
 ## 2018 OWASP Sendai Meeting 21
-
-26 Feb. 2018 [@Socilabo](http://socilabo.com/)
-
+   * 26 Feb. 2018 [@Socilabo](http://socilabo.com/)
    * Venue Sponsor
 
      | [RAPiC Inc.](http://rapic.jp/) |
 
-
-
-Security by the numbers - Speaker: Eoin Keary (edgescan), Interpreter:
-Takaharu Ogasa (OWASP Sendai Local Chapter Leader / Security Initiative)
+   * Talk Topics
+      * "Security by the numbers" Eoin Keary / edgescan
+         * Interpreter: Takaharu Ogasa / OWASP Sendai / Security Initiative
 
 ## 2018 OWASP Sendai Meeting 20
-
-29 Nov. 2017 [@Socilabo](http://socilabo.com/)
-
+   * 29 Nov. 2017 [@Socilabo](http://socilabo.com/)
    * Venue Sponsor
 
      | [RAPiC Inc.](http://rapic.jp/) |
 
-
-
-  - SQL Injection 101 with sqli-labs - Speaker: Ken Kitahara (Lac Inc. /
-    OWASP Japan)
-  - Introducing OWASP Juice Shop - Speaker: Takaharu Ogasa (OWASP Sendai
-    Local Chapter Leader)
+   * Talk Topics
+      * "SQL Injection 101 with sqli-labs" Ken Kitahara / Lac Inc. / OWASP Japan
+      * "Introducing OWASP Juice Shop" Takaharu Ogasa, GWAPT / OWASP Sendai / Security Initiative
 
 ## 2017 OWASP Sendai Meeting 19
-
-29 Nov. 2017 [@Socilabo](http://socilabo.com/)
-
-[   * Venue Sponsor
+   * 29 Nov. 2017 [@Socilabo](http://socilabo.com/)
+   * Venue Sponsor
 
      | [RAPiC Inc.](http://rapic.jp/) |](http://socilabo.com/)
 
-This meeting was presented by Rapic Inc.
-
-  - OWASP Top 10 2017 For Beginners / Speaker: Yamada-kun
-
-<!-- end list -->
-
-  - Testing XSS Vulnerability Part 2 Hands on Training Using XenotiX XSS
-    Exploit Framework/ Speaker: Takaharu Ogasa, GWAPT (CEO, Security
-    Initiative Co., Ltd. / OWASP Sendai Chapter Leader)
+   * Talk Topics
+      * "OWASP Top 10 2017 For Beginners" Yamada-kun
+      * "Testing XSS Vulnerability Part 2 Hands on Training Using XenotiX XSS Exploit Framework" Takaharu Ogasa, GWAPT / OWASP Sendai / Security Initiative
 
 ## 2017 OWASP Sendai Meeting 18
-
-19 Oct 2017 [@Socilabo](http://socilabo.com/)
-
-###    * Venue Sponsor
+   * 19 Oct 2017 [@Socilabo](http://socilabo.com/)
+   * Venue Sponsor
 
      | [RAPiC Inc.](http://rapic.jp/) |
 
-This meeting was presented by Rapic Inc.
-
-  - Computer Science Looking Through the CTF Perspective / Speaker:
-    Yoshihiro Isago (Onsite Inc.)
-
-<!-- end list -->
-
-  - How to escalate privileges to administrator in latest Windows /
-    Speaker: Soya Aoyama / Fujitsu System Integration Labs.
+   * Talk Topics
+      * "Computer Science Looking Through the CTF Perspective" Yoshihiro Isago / Onsite Inc.
+      * "How to escalate privileges to administrator in latest Windows" Soya Aoyama / Fujitsu System Integration Labs.
 
 ## 2017 OWASP Sendai Meeting 17
-
-1 Sep 2017　[@Socilabo](http://socilabo.com/)
-
-###    * Venue Sponsor
+   * 1 Sep 2017　[@Socilabo](http://socilabo.com/)
+   * Venue Sponsor
 
      | [RAPiC Inc.](http://rapic.jp/) |
 
-  - Mining Meteor / Speaker: Tim Medin, SANS Certified Instructor
-    (Director, The October 27th Group)
+   * Talk Topics
+      * "Mining Meteor" Tim Medin / SANS Certified Instructor / RedSiege
 
 ## 2017 OWASP Sendai Meeting 16
-
-12 July 2017　[@Socilabo](http://socilabo.com/)
-
-###    * Venue Sponsor
+   * 12 July 2017　[@Socilabo](http://socilabo.com/)
+   * Venue Sponsor
 
      | [RAPiC Inc.](http://rapic.jp/) |
 
-  - Best Practice to Configure TLS/SSL on Big Three Web Servers /
-    Speaker: Hidetoshi Musha, CISSP (CEO, Muudoo Security Inc.)
-  - Testing XSS Vulnerability Part 1 XSS and Exploit / Speaker: Takaharu
-    Ogasa, GWAPT (CEO, Security Initiative Co., Ltd. / OWASP Sendai
-    Chapter Leader)
+   * Talk Topics
+      * "Best Practice to Configure TLS/SSL on Big Three Web Servers" Hidetoshi Musha, CISSP / Muudoo Security Inc.
+      * "Testing XSS Vulnerability Part 1 XSS and Exploit" Takaharu Ogasa, GWAPT / OWASP Sendai / Security Initiative
 
 ## 2017 OWASP Sendai Meeting 15
-
-14 Jun 2017　[@Socilabo](http://socilabo.com/)
-
-###    * Venue Sponsor
+   * 14 Jun 2017　[@Socilabo](http://socilabo.com/)
+   * Venue Sponsor
 
      | [RAPiC Inc.](http://rapic.jp/) |
 
-  - Developing Your Own Vulnerability Scanner With Python / Speaker:
-    Yuichi Hattori (OWASP Kyushu Local Chapter Leader)
-  - OWASP Top 10 Explained A10 / Speaker: Takaharu Ogasa, GWAPT (CEO,
-    Security Initiative Co., Ltd. / OWASP Sendai Chapter Leader)
+   * Talk Topics
+      * "Developing Your Own Vulnerability Scanner With Python" Yuichi Hattori / OWASP Kyushu Chapter Leader
+      * "OWASP Top 10 Explained A10" Takaharu Ogasa, GWAPT / OWASP Sendai / Security Initiative
 
 ## 2017 OWASP Sendai Meeting 14
-
-19 Apr 2017　[@Socilabo](http://socilabo.com/)
-
-###    * Venue Sponsor
+   * 19 Apr 2017　[@Socilabo](http://socilabo.com/)
+   * Venue Sponsor
 
      | [RAPiC Inc.](http://rapic.jp/) |
 
-  - Computer Science Looking Through the CTF Perspective / Speaker:
-    Yoshihiro Isago (Onsite Inc.)
-  - Encouraging for Infosec Certifications / Speaker: Katsuya Ito
-    (Tohoku Computer College, Department of Network Security)
+   * Talk Topics
+      * "Computer Science Looking Through the CTF Perspective" Yoshihiro Isago/ Onsite Inc.
+      * "Encouraging for Infosec Certifications" Katsuya Ito / Tohoku Computer College, Department of Network Security
 
 ## 2017 OWASP Sendai Meeting 13
-
-15 Mar 2017　[@Socilabo](http://socilabo.com/)
-
-###    * Venue Sponsor
+   * 15 Mar 2017　[@Socilabo](http://socilabo.com/)
+   * Venue Sponsor
 
      | [RAPiC Inc.](http://rapic.jp/) |
 
-  - Security Operation / Speaker: Masahito Yamaga (CSIRT Researcher)
-  - Understanding OWASP TOP 10 with Attacker's View - A9 / Speaker:
-    Takaharu Ogasa, GWAPT (CEO, Security Initiative Co., Ltd. / OWASP
-    Sendai Chapter Leader)
-
-
+   * Talk Topics
+      * "Security Operation" Masahito Yamaga / CSIRT Researcher
+      * "Understanding OWASP TOP 10 with Attacker's View - A9" Takaharu Ogasa, GWAPT / OWASP Sendai / Security Initiative
 
 ## 2017 OWASP Sendai Meeting 12
 
@@ -221,7 +173,7 @@ This meeting was presented by Rapic Inc.
 
      | [RAPiC Inc.](http://rapic.jp/) |
 
-This meeting was presented by Rapic Inc.
+
 
   - SSL/TLS Basics 〜 Ssl Open Tls Ssl 〜 Part 2 / Speaker: Hidetoshi
     Musha, CISSP (CEO, Muudoo Security Inc.)
@@ -239,7 +191,7 @@ This meeting was presented by Rapic Inc.
 
      | [RAPiC Inc.](http://rapic.jp/) |
 
-This meeting was presented by Rapic Inc.
+
 
   - Cyber Security For Company Executives Part 2 / Speaker: Masahide
     Sato, CISO (CEO, Scriv Inc.)
@@ -256,7 +208,7 @@ This meeting was presented by Rapic Inc.
 
      | [RAPiC Inc.](http://rapic.jp/) |
 
-This meeting was presented by Rapic Inc. and Security Initiative Inc.
+ and Security Initiative Inc.
 
 `  `
 
@@ -270,7 +222,7 @@ This meeting was presented by Rapic Inc. and Security Initiative Inc.
 
      | [RAPiC Inc.](http://rapic.jp/) |
 
-This meeting was presented by Rapic Inc.
+
 
   - Understanding Blockchain Technology / Speaker: Masao Sakai (Center
     for Information Technology in Education Tohoku University)
@@ -287,7 +239,7 @@ This meeting was presented by Rapic Inc.
 
      | [RAPiC Inc.](http://rapic.jp/) |
 
-This meeting was presented by Rapic Inc.
+
 
   - Some Traffic Seen in a Local Darknet / Speaker: Associate Professor
     HIroshi Usunoda, PhD (Tohoku Institute Of Technology)
@@ -304,7 +256,7 @@ This meeting was presented by Rapic Inc.
 
      | [RAPiC Inc.](http://rapic.jp/) |
 
-This meeting was presented by Rapic Inc.
+
 
   - A Risk of Vulnerable Client Side Code Exploited Through Debug Tools
     (with Demo)/ Speaker: Tsutomu Iguchi
@@ -321,7 +273,7 @@ This meeting was presented by Rapic Inc.
 
      | [RAPiC Inc.](http://rapic.jp/) |
 
-This meeting was presented by Rapic Inc.
+
 
   - Understanding the Basic Knowledge of OWASP TOP 10 2013 A6 Sensitive
     Data Exposure / Speaker: Takaharu Ogasa, OWASP Sendai Chapter Leader
@@ -341,7 +293,7 @@ This meeting was presented by Rapic Inc.
 
      | [RAPiC Inc.](http://rapic.jp/) |
 
-This meeting was presented by Rapic Inc.
+
 
   - Understanding the Basic Knowledge of OWASP TOP 10 2013 A4 Insecure
     Direct Object References / Speaker: Takaharu Ogasa, OWASP Sendai
