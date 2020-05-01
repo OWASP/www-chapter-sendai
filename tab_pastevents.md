@@ -13,7 +13,7 @@ tags: sendai-tag
    * 2020年2月8日(土)～2月9日(日) [@enspace](https://www.enspace.work/)
    * Venue スポンサー
 
-     | [enspace](https://www.enspace.work/) |
+     | [<img src="assets/images/enspace.png" height="50px"](https://www.enspace.work/) |
 
 ## OWASP Sendai ミーティング 40
    * 2020年1月8日(水) 18:30～20:30 [@ソシラボ](http://socilabo.com/)
