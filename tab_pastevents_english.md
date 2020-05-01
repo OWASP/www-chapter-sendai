@@ -39,37 +39,24 @@ tags: sendai-tag
       * Recent Study on Driving Support Technology - Yu Arai / TrendMicro
 
 ## 2018 OWASP Sendai Meeting 25
-
-27 June 2018 [@Socilabo](http://socilabo.com/)
-
+   * 27 June 2018 [@Socilabo](http://socilabo.com/)
    * Venue Sponsor
 
      | [RAPiC Inc.](http://rapic.jp/) |
 
-
-
-  - Challenging Information Security Management Certificate - Speaker:
-    Sonomi Takahashi (OWASP Sendai Local Chapter Leader / Rapic Inc.)
-
-<!-- end list -->
-
-  - OWASP Top10 2017 For Beginners : A2 Broken Authentication - Speaker:
-    Yamada-kun
+   * Talk Topics
+      * Challenging Information Security Management Certificate - Sonomi Takahashi / OWASP Sendai / Rapic Inc.
+      * OWASP Top10 2017 For Beginners : A2 Broken Authentication - Yamada-kun
 
 ## 2018 OWASP Sendai Meeting 24
-
-30 May. 2018 [@Socilabo](http://socilabo.com/)
-
+   * 30 May. 2018 [@Socilabo](http://socilabo.com/)
    * Venue Sponsor
 
      | [RAPiC Inc.](http://rapic.jp/) |
 
-
-
-  - Trends and Strategies for Securing The Internet Of Things (IoT) -
-    Speaker: Ade Yoseman Putra (OWASP Jakarta Local Chapter Leader /
-    OWASP Scuretea Project Leader), Interpreter: Takaharu Ogasa (OWASP
-    Sendai Local Chapter Leader / Security Initiative)
+   * Talk Topics
+      * Trends and Strategies for Securing The Internet Of Things (IoT) -Ade Yoseman Putra / OWASP Jakarta Local Chapter Leader / OWASP Scuretea Project Leader
+         * Interpreter: Takaharu Ogasa / OWASP Sendai / Security Initiative
 
 ## 2018 OWASP Sendai Meeting 23
 
