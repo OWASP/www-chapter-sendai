@@ -6,7 +6,7 @@ order: 1
 tags: sendai-tag
 ---
 
-![OWASP Sendai Logo](assets/images/logo_owasp_sendai.jpg)
+![OWASP Sendai Logo](assets/images/owasp_sendai_logo.png)
 
 # Welcome to OWASP Sendai Local Chapter
 
