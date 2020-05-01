@@ -27,7 +27,7 @@ OWASP Sendai発足4周年とローカルチャプターミーティング通算4
 
 ## 会場スポンサー
 
-| [<img src="assets/images/enspace.png" height="50px">](https://www.enspace.work/) |
+| [<img src="assets/images/enspace.png" height="70px">](https://www.enspace.work/) |
 
 ## キーノートスピーカーのみなさま(50音順)
 * Soya Aoyama (@SoyaAoyama) / 富士通システム統合研究所
