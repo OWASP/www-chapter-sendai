@@ -17,8 +17,8 @@ contributing funds to our chapter:
 | [<img src="assets/images/securityinitiative.png" height="60px">](https://security-initiative.co.jp) |
 
 # Upcoming Meeting
-## OWASP Sendai Meeting 42
-   * 2020/5/12 19:00～21:00 Virtual
+## OWASP Sendai Meeting 42 
+   * 2020/5/12 19:00～21:00 Virtual Meeting
    * Talk topics
       * 「API Security Top10 Overview」 Masaki Yamamoto (@nnasaki) / Microsoft MVP for Microsoft Azure
       * 「OSINT at The Services for Corparate」 Oscar Orellana (@odin_200)  / OWASP Chile Chapter
