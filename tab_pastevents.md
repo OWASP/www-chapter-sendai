@@ -9,26 +9,29 @@ tags: sendai-tag
 
 ## 過去のミーティング
 
-### \[OWASP Sendai ミーティング 34\]
+### OWASP Sendai ミーティング 34
 
-2019年5月16日(木) 18:30～20:30 [@ソシラボ](http://socilabo.com/)
+#### 2019年5月16日(木) 18:30～20:30 [@ソシラボ](http://socilabo.com/)
 
-Venue スポンサー
+#### Venue スポンサー
 
-- 「サイバー犯罪と法律」 スピーカー：松宮 大輝 (元サイバー犯罪捜査官)
+| [株式会社RAPiC](http://rapic.jp/) |
 
-- 「公共Wi-fiの危険性について」 スピーカー：小沢 史明
+#### トークタイトル
+* 「サイバー犯罪と法律」 スピーカー：松宮 大輝 (元サイバー犯罪捜査官)
+* 「公共Wi-fiの危険性について」 スピーカー：小沢 史明
 
-### \[OWASP Sendai ミーティング 29\]
-
+### OWASP Sendai ミーティング 29
 2018年11月21日(水) 18:30～20:30 [@ソシラボ](http://socilabo.com/)
 
-Venue スポンサー
+#### Venue スポンサー
 
-- 「Outsmarting Smartphone Apps 2」 吉村 孝広 (Takahiro Yoshimura a.k.a.
+| [株式会社RAPiC](http://rapic.jp/) |
+
+#### トークタイトル
+* 「Outsmarting Smartphone Apps 2」 吉村 孝広 (Takahiro Yoshimura a.k.a.
 alterakey / 株式会社モノリスワークスCTO)
-
-- 「Research? Life in Malaga」角田 裕（東北工業大学）
+* 「Research? Life in Malaga」角田 裕（東北工業大学）
 
 ### \[OWASP Sendai ミーティング 28\]
 
