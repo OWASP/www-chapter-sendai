@@ -8,15 +8,23 @@ tags: sendai-tag
 
 ![OWASP Sendai Logo](assets/images/logo_owasp_sendai.jpg)
 
-## Chapter Sponsor
+# Welcome to OWASP Sendai Local Chapter
 
-The following are the list of OWASP Corporate Members who have
-generously aligned themselves with the Sendai chapter, therefore
+# Chapter Sponsor
+The following are the list of OWASP chapter sponsors who have generously aligned themselves with the Sendai chapter, therefore
 contributing funds to our chapter:
 
-### Chapter Sponsor
+| [<img src="assets/images/securityinitiative.png" height="60px">](https://security-initiative.co.jp) |
 
-## Upcoming Meeting
+# Upcoming Meeting
+## OWASP Sendai Meeting 42
+   * 2020/5/12 19:00～21:00 Virtual
+   * Talk topics
+      * 「API Security Top10 Overview」 Masaki Yamamoto (@nnasaki) / Microsoft MVP for Microsoft Azure
+      * 「OSINT at The Services for Corparate」 Oscar Orellana (@odin_200)  / OWASP Chile Chapter
+   * Registration
+      * [To Connpass Resgistration Page](https://owaspsendai.connpass.com/event/175125/)
+  
 
 <!--
 
