@@ -100,7 +100,7 @@ tags: sendai-tag
    * 29 Nov. 2017 [@Socilabo](http://socilabo.com/)
    * Venue Sponsor
 
-     | [RAPiC Inc.](http://rapic.jp/) |](http://socilabo.com/)
+     | [RAPiC Inc.](http://rapic.jp/) |
 
    * Talk Topics
       * "OWASP Top 10 2017 For Beginners" Yamada-kun
