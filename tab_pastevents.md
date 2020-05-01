@@ -95,8 +95,7 @@ tags: sendai-tag
 
    * トークタイトル
       * 「ゼロデイマーケット」 篠田佳奈 / 株式会社BLUE代表取締役
-
-- ライトニングトーク
+      * ライトニングトーク
 
 ## OWASP Sendai ミーティング 21
    * 2018年2月26日(月) 18:30～20:30 [@ソシラボ](http://socilabo.com/)
@@ -125,8 +124,7 @@ tags: sendai-tag
 
    * トークタイトル
       * 「初心者のためのOWASP Top 10 2017  - A1 インジェクション」　セキュリティ初心者山田くん
-      * 「クロスサイトスクリプティング(XSS)の診断方法を学ぼう② Xenotix XSS Exoloit Frameworkを使用したハンズオン」
-小笠貴晴 / OWASP Sendaiチャプターリーダー
+      * 「クロスサイトスクリプティング(XSS)の診断方法を学ぼう② Xenotix XSS Exoloit Frameworkを使用したハンズオン」 小笠貴晴 / OWASP Sendaiチャプターリーダー
 
 ## OWASP Sendai ミーティング 18
    * 2017年10月19日(木) 18:30～21:00 [@ソシラボ](http://socilabo.com/)
@@ -145,7 +143,7 @@ tags: sendai-tag
      | [株式会社RAPiC](http://rapic.jp/) |
 
    * トークタイトル
-      * 「Mining Meteor」　Tim Medin / RedSiege
+      * 「Mining Meteor」Tim Medin / RedSiege
 
 ## 2017 OWASP Sendai ミーティング 16
    * 2017年7月12日(水) 18:30～21:00 [@ソシラボ](http://socilabo.com/)
@@ -164,8 +162,8 @@ tags: sendai-tag
      | [株式会社RAPiC](http://rapic.jp/) |
 
    * トークタイトル
-      * Pythonを使った簡易診断スクリプトの作り方」　服部祐一 / OWASP Kyushu チャプターリーダー
-      * OWASP Top 10 A10 未検証のリダイレクトとフォワード」 小笠貴晴 / GWAPT / OWASP Sendai チャプターリーダー / 株式会社セキュリティイニシアティブ
+      * 「Pythonを使った簡易診断スクリプトの作り方」　服部祐一 / OWASP Kyushu チャプターリーダー
+      * 「OWASP Top 10 A10 未検証のリダイレクトとフォワード」 小笠貴晴 / GWAPT / OWASP Sendai チャプターリーダー / 株式会社セキュリティイニシアティブ
 
 ## 2017 OWASP Sendai ミーティング 14
    * 2017年4月19日(水) 18:30～21:00 [@ソシラボ](http://socilabo.com/)
@@ -185,10 +183,7 @@ tags: sendai-tag
 
    * トークタイトル
       * 「できるところから始める セキュリティ運用」　山賀正人 / CSIRT研究家
-      * 「攻撃者視点で学ぶセキュリティ基礎 OWASP TOP10 A9」 小笠貴晴 / GWAPT / 株式会社セキュリティイニシアティブ
-    代表取締役、OWASP Sendaiチャプターリーダー
-
-
+      * 「攻撃者視点で学ぶセキュリティ基礎 OWASP TOP10 A9」 小笠貴晴 / GWAPT / 株式会社セキュリティイニシアティブ 代表取締役 / OWASP Sendaiチャプターリーダー
 
 ## 2017 OWASP Sendai ミーティング 12
    * 2017年2月15日(水) 18:30～21:00 [@ソシラボ](http://socilabo.com/)
