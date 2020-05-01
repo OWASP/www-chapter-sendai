@@ -167,123 +167,73 @@ tags: sendai-tag
 
 ## 2017 OWASP Sendai Meeting 12
 
-15 Feb 2017　[@Socilabo](http://socilabo.com/)
-
-###    * Venue Sponsor
+   * 15 Feb 2017　[@Socilabo](http://socilabo.com/)
+   * Venue Sponsor
 
      | [RAPiC Inc.](http://rapic.jp/) |
 
-
-
-  - SSL/TLS Basics 〜 Ssl Open Tls Ssl 〜 Part 2 / Speaker: Hidetoshi
-    Musha, CISSP (CEO, Muudoo Security Inc.)
-  - JavaScript Security / Speaker: Yosuke Hasegawa (CTO, Secure Sky
-    Technology Inc./ OWASP Kansai Chapter Leader)
-
-
-
+   * Talk Topics
+      * "SSL/TLS Basics 〜 Ssl Open Tls Ssl 〜 Part 2" Hidetoshi Musha, CISSP / Muudoo Security Inc.
+      * "JavaScript Security" Yosuke Hasegawa / Secure Sky Technology Inc. / OWASP Kansai Chapter Leader
 
 ## 2017 OWASP Sendai Meeting 11
-
-18 January 2017 18:45 - 20:30 [@Socilabo](http://socilabo.com/)
-
-###    * Venue Sponsor
+   * 18 January 2017 18:45 - 20:30 [@Socilabo](http://socilabo.com/)
+   * Venue Sponsor
 
      | [RAPiC Inc.](http://rapic.jp/) |
 
-
-
-  - Cyber Security For Company Executives Part 2 / Speaker: Masahide
-    Sato, CISO (CEO, Scriv Inc.)
-  - SSL/TLS Basics 〜 Ssl Open Tls Ssl 〜 Part 1 / Speaker: Hidetoshi
-    Musha, CISSP (CEO, Muudoo Security Inc.)
-
-
+   * Talk Topics
+      * "Cyber Security For Company Executives Part 2" Masahide Sato, CISA / Scriv Inc.
+      * "SSL/TLS Basics 〜 Ssl Open Tls Ssl 〜 Part 1" Hidetoshi Musha, CISSP / Muudoo Security Inc.
 
 ## 2016 OWASP Sendai Meeting 10 Beer Bash
-
-8 December 2016 18:30 - 21:00 [@Socilabo](http://socilabo.com/)
-
-###    * Venue Sponsor
+   * 8 December 2016 18:30 - 21:00 [@Socilabo](http://socilabo.com/)
+   * Venue Sponsor
 
      | [RAPiC Inc.](http://rapic.jp/) |
-
- and Security Initiative Inc.
-
-`  `
-
-
 
 ## 2016 OWASP Sendai Meeting 9
-
-16 November 2016 19:00 - 20:30 [@Socilabo](http://socilabo.com/)
-
-###    * Venue Sponsor
+   * 16 November 2016 19:00 - 20:30 [@Socilabo](http://socilabo.com/)
+   * Venue Sponsor
 
      | [RAPiC Inc.](http://rapic.jp/) |
 
-
-
-  - Understanding Blockchain Technology / Speaker: Masao Sakai (Center
-    for Information Technology in Education Tohoku University)
-  - Cyber Security For Company Executives Part 1 / Speaker: Masahide
-    Sato, CISO (CEO, Scriv Inc.)
-
-
+   * Talk Topics
+      * "Understanding Blockchain Technology" Masao Sakai / Center for Information Technology in Education Tohoku University
+      * "Cyber Security For Company Executives Part 1" Masahide Sato, CSA / Scriv Inc.
 
 ## 2016 OWASP Sendai Meeting 8
-
-18 October 2016 19:00 - 20:30 [@Socilabo](http://socilabo.com/)
-
-###    * Venue Sponsor
+   * 18 October 2016 19:00 - 20:30 [@Socilabo](http://socilabo.com/)
+   * Venue Sponsor
 
      | [RAPiC Inc.](http://rapic.jp/) |
 
-
-
-  - Some Traffic Seen in a Local Darknet / Speaker: Associate Professor
-    HIroshi Usunoda, PhD (Tohoku Institute Of Technology)
-  - Understanding the Basic Concept of Session Riding Through the Demo /
-    Speaker: Takaharu Ogasa, GWAPT (CEO, Security Initiative Co.Ltd.)
+   * Talk Topics
+      * "Some Traffic Seen in a Local Darknet" Hiroshi Usunoda, PhD / Tohoku Institute Of Technology
+      * "Understanding the Basic Concept of Session Riding Through the Demo" Takaharu Ogasa, GWAPT /OWASP Sendai / Security Initiative
 
 
 
 ## 2016 OWASP Sendai Meeting 7
-
-6 September 2016 19:00 - 20:30 [@Socilabo](http://socilabo.com/)
-
-###    * Venue Sponsor
+   * 6 September 2016 19:00 - 20:30 [@Socilabo](http://socilabo.com/)
+   * Venue Sponsor
 
      | [RAPiC Inc.](http://rapic.jp/) |
 
-
-
-  - A Risk of Vulnerable Client Side Code Exploited Through Debug Tools
-    (with Demo)/ Speaker: Tsutomu Iguchi
-  - Understanding the Basic Knowledge of OWASP TOP 10 2013 A8 Cross Site
-    Request Forgery / Speaker: Shota Sato, OWASP Sendai Chapter Board
-
-
+   * Talk Topics
+      * "A Risk of Vulnerable Client Side Code Exploited Through Debug Tools (with Demo)" Tsutomu Iguchi
+      * "Understanding the Basic Knowledge of OWASP TOP 10 2013 A8 CSRF" Shota Sato / OWASP Sendai Chapter Board
 
 ## 2016 OWASP Sendai Meeting 6
-
-12 July 2016 19:00 - 20:30 [@Socilabo](http://socilabo.com/)
-
-###    * Venue Sponsor
+   * 12 July 2016 19:00 - 20:30 [@Socilabo](http://socilabo.com/)
+   * Venue Sponsor
 
      | [RAPiC Inc.](http://rapic.jp/) |
 
-
-
-  - Understanding the Basic Knowledge of OWASP TOP 10 2013 A6 Sensitive
-    Data Exposure / Speaker: Takaharu Ogasa, OWASP Sendai Chapter Leader
-  - Am I Hacked? Verifying Network not being Eavesdropped / Speaker:
-    Yosuke Sato, OWASP Sendai Chapter Board
-  - Understanding the Basic Knowledge of OWASP TOP 10 2013 A7 Missing
-    Function Level Access Control / Speaker: Takaharu Ogasa, OWASP
-    Sendai Chapter Leader
-
-
+   * Talk Topics
+      * "Understanding the Basic Knowledge of OWASP TOP 10 2013 A6 Sensitive Data Exposure" Takaharu Ogasa, GWAPT / OWASP Sendai / Security Initiative
+      * "Am I Hacked? Verifying Network not being Eavesdropped" Yosuke Sato / OWASP Sendai Chapter Board
+      * "Understanding the Basic Knowledge of OWASP TOP 10 2013 A7 Missing Function Level Access Control" Takaharu Ogasa, GWAPT / OWASP Sendai / Security Initiative
 
 ## 2016 OWASP Sendai Meeting 5
 
