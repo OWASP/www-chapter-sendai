@@ -10,7 +10,7 @@ region: Asia/Pacific
 
 ## OWASP Sendaiへようこそ
 
-イベント開催等の情報はメーリングリストやSNSにて配信しております。メーリングリストへのご登録をおすすめします。
+イベント開催等の情報はメーリングリストやSNSにて配信しております。
 - [FACEBOOKページ](https://www.facebook.com/owaspsendai/)
 - [Twitter](https://twitter.com/OWASP_Sendai)
 
