@@ -9,6 +9,71 @@ tags: sendai-tag
 
 # 過去のミーティング
 
+## OWASP Sendai Day 2020
+   * 2020年2月8日(土)～2月9日(日) [@enspace](https://www.enspace.work/)
+   * Venue スポンサー
+
+     | [enspace](https://www.enspace.work/) |
+
+## OWASP Sendai ミーティング 40
+   * 2020年1月8日(水) 18:30～20:30 [@ソシラボ](http://socilabo.com/)
+   * Venue スポンサー
+
+     | [株式会社RAPiC](http://rapic.jp/) |
+
+   * トークタイトル
+      * 「Fuzzing」 Michael .
+      * 「初めての文字認識」 小田 保之
+
+## OWASP Sendai ミーティング 39
+   * 2019年12月7日(土) 18:30～20:30 [@ソシラボ](http://socilabo.com/)
+   * Venue スポンサー
+
+     | [株式会社RAPiC](http://rapic.jp/) |
+
+   * トークタイトル
+      * 「PHP Object Injection」 北原 憲 / 株式会社ラック
+      * 「Dockerを活用したDevSecOps自動化パイプライン」 小笠 貴晴 / OWASP Sendai / セキュリティイニシアティブ 
+
+## OWASP Sendai ミーティング 38
+   * 2019年9月27日(金) 18:30～20:30 [@ソシラボ](http://socilabo.com/)
+   * Venue スポンサー
+
+     | [株式会社RAPiC](http://rapic.jp/) |
+
+   * トークタイトル
+      * 「[ハンズオン] ハックリートファイターⅡWP〜世界中の最強WordPressを倒せ〜」 松本 悦宜 / Capy株式会社
+      * 「BSidesSG 体験記」 セキュリティ初心者やまだくん
+
+## OWASP Sendai ミーティング 37
+   * 2019年8月20日(火) 18:30～20:30 [@ソシラボ](http://socilabo.com/)
+   * Venue スポンサー
+
+     | [株式会社RAPiC](http://rapic.jp/) |
+
+   * トークタイトル
+      * 「WSL1+2で広がる世界」 三村 聡志 (@mimura1133) / 株式会社イエラエセキュリティ
+      * 「OWASP SAMMプロジェクト」 小笠 貴晴 / OWASP Sendai / セキュリティイニシアティブ
+
+## OWASP Sendai ミーティング 36
+   * 2019年7月27日(土) 13:00～17:00 @楽天仙台支社
+   * Venue スポンサー
+
+     | [楽天仙台支社 |
+
+   * トークタイトル
+      * 「[ハンズオン] flaws.cloudをやってみよう！ flAWSチャレンジで学ぶAWSセキュリティ」 洲崎 俊 / @tigerszk / 三井物産セキュアディレクション株式会社
+      
+## OWASP Sendai ミーティング 35
+   * 2019年6月26日(水) 18:30～20:30 [@ソシラボ](http://socilabo.com/)
+   * Venue スポンサー
+
+     | [株式会社RAPiC](http://rapic.jp/) |
+
+   * トークタイトル
+      * 「はじめてのOWASP Top10 2017 - A7:クロスサイトスクリプティング」 千葉 翔也/ 東北工業大学 ＆ セキュリティ初心者やまだくん
+      * 「OWASP ASVS4.0 + 開発工程へのSecurity Knowledge Frameworkの導入」 小笠 貴晴 / OWASP Sendai / セキュリティイニシアティブ
+
 ## OWASP Sendai ミーティング 34
    * 2019年5月16日(木) 18:30～20:30 [@ソシラボ](http://socilabo.com/)
    * Venue スポンサー
