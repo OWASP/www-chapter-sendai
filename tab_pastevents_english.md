@@ -13,7 +13,7 @@ tags: sendai-tag
    * 24 October 2018 [@Socilabo](http://socilabo.com/)
    * Venue Sponsor
 
-     | [株式会社RAPiC](http://rapic.jp/) |
+     | [RAPiC Inc.](http://rapic.jp/) |
 
    * Talk Topics
       * OWASP Top10 2017 For Beginners : A5 XML External Entities (XXE) - Yamada-kun & Shoya Chiba / Tohoku Institute Of Technology
@@ -23,7 +23,7 @@ tags: sendai-tag
    * 29 Aug 2018 [@Socilabo](http://socilabo.com/)
    * Venue Sponsor
 
-     | [株式会社RAPiC](http://rapic.jp/) |
+     | [RAPiC Inc.](http://rapic.jp/) |
 
    * Talk Topics
       * OWASP Top10 2017 For Beginners : A3 Sensitive Data Exposure - Yamada-kun & Shoya Chiba / Tohoku Institute Of Technology
@@ -33,7 +33,7 @@ tags: sendai-tag
    * 13 July 2018 [@Socilabo](http://socilabo.com/)
    * Venue Sponsor
 
-     | [株式会社RAPiC](http://rapic.jp/) |
+     | [RAPiC Inc.](http://rapic.jp/) |
 
    * Talk Topics
       * Recent Study on Driving Support Technology - Yu Arai / TrendMicro
@@ -44,7 +44,7 @@ tags: sendai-tag
 
    * Venue Sponsor
 
-     | [株式会社RAPiC](http://rapic.jp/) |
+     | [RAPiC Inc.](http://rapic.jp/) |
 
 
 
@@ -62,7 +62,7 @@ tags: sendai-tag
 
    * Venue Sponsor
 
-     | [株式会社RAPiC](http://rapic.jp/) |
+     | [RAPiC Inc.](http://rapic.jp/) |
 
 
 
@@ -77,7 +77,7 @@ tags: sendai-tag
 
    * Venue Sponsor
 
-     | [株式会社RAPiC](http://rapic.jp/) |
+     | [RAPiC Inc.](http://rapic.jp/) |
 
 
 
@@ -90,7 +90,7 @@ Attack & Defense Sendai : Solutions explained / Speaker: Yuichi Hattori
 
    * Venue Sponsor
 
-     | [株式会社RAPiC](http://rapic.jp/) |
+     | [RAPiC Inc.](http://rapic.jp/) |
 
 
 
@@ -102,7 +102,7 @@ Zeroday Market / Speaker: Kana Shinoda (CEO, Blue Inc. / CODE BLUE)
 
    * Venue Sponsor
 
-     | [株式会社RAPiC](http://rapic.jp/) |
+     | [RAPiC Inc.](http://rapic.jp/) |
 
 
 
@@ -115,7 +115,7 @@ Takaharu Ogasa (OWASP Sendai Local Chapter Leader / Security Initiative)
 
    * Venue Sponsor
 
-     | [株式会社RAPiC](http://rapic.jp/) |
+     | [RAPiC Inc.](http://rapic.jp/) |
 
 
 
@@ -130,7 +130,7 @@ Takaharu Ogasa (OWASP Sendai Local Chapter Leader / Security Initiative)
 
 [   * Venue Sponsor
 
-     | [株式会社RAPiC](http://rapic.jp/) |](http://socilabo.com/)
+     | [RAPiC Inc.](http://rapic.jp/) |](http://socilabo.com/)
 
 This meeting was presented by Rapic Inc.
 
@@ -148,7 +148,7 @@ This meeting was presented by Rapic Inc.
 
 ###    * Venue Sponsor
 
-     | [株式会社RAPiC](http://rapic.jp/) |
+     | [RAPiC Inc.](http://rapic.jp/) |
 
 This meeting was presented by Rapic Inc.
 
@@ -166,7 +166,7 @@ This meeting was presented by Rapic Inc.
 
 ###    * Venue Sponsor
 
-     | [株式会社RAPiC](http://rapic.jp/) |
+     | [RAPiC Inc.](http://rapic.jp/) |
 
   - Mining Meteor / Speaker: Tim Medin, SANS Certified Instructor
     (Director, The October 27th Group)
@@ -177,7 +177,7 @@ This meeting was presented by Rapic Inc.
 
 ###    * Venue Sponsor
 
-     | [株式会社RAPiC](http://rapic.jp/) |
+     | [RAPiC Inc.](http://rapic.jp/) |
 
   - Best Practice to Configure TLS/SSL on Big Three Web Servers /
     Speaker: Hidetoshi Musha, CISSP (CEO, Muudoo Security Inc.)
@@ -191,7 +191,7 @@ This meeting was presented by Rapic Inc.
 
 ###    * Venue Sponsor
 
-     | [株式会社RAPiC](http://rapic.jp/) |
+     | [RAPiC Inc.](http://rapic.jp/) |
 
   - Developing Your Own Vulnerability Scanner With Python / Speaker:
     Yuichi Hattori (OWASP Kyushu Local Chapter Leader)
@@ -204,7 +204,7 @@ This meeting was presented by Rapic Inc.
 
 ###    * Venue Sponsor
 
-     | [株式会社RAPiC](http://rapic.jp/) |
+     | [RAPiC Inc.](http://rapic.jp/) |
 
   - Computer Science Looking Through the CTF Perspective / Speaker:
     Yoshihiro Isago (Onsite Inc.)
@@ -217,7 +217,7 @@ This meeting was presented by Rapic Inc.
 
 ###    * Venue Sponsor
 
-     | [株式会社RAPiC](http://rapic.jp/) |
+     | [RAPiC Inc.](http://rapic.jp/) |
 
   - Security Operation / Speaker: Masahito Yamaga (CSIRT Researcher)
   - Understanding OWASP TOP 10 with Attacker's View - A9 / Speaker:
@@ -232,7 +232,7 @@ This meeting was presented by Rapic Inc.
 
 ###    * Venue Sponsor
 
-     | [株式会社RAPiC](http://rapic.jp/) |
+     | [RAPiC Inc.](http://rapic.jp/) |
 
 This meeting was presented by Rapic Inc.
 
@@ -250,7 +250,7 @@ This meeting was presented by Rapic Inc.
 
 ###    * Venue Sponsor
 
-     | [株式会社RAPiC](http://rapic.jp/) |
+     | [RAPiC Inc.](http://rapic.jp/) |
 
 This meeting was presented by Rapic Inc.
 
@@ -267,7 +267,7 @@ This meeting was presented by Rapic Inc.
 
 ###    * Venue Sponsor
 
-     | [株式会社RAPiC](http://rapic.jp/) |
+     | [RAPiC Inc.](http://rapic.jp/) |
 
 This meeting was presented by Rapic Inc. and Security Initiative Inc.
 
@@ -281,7 +281,7 @@ This meeting was presented by Rapic Inc. and Security Initiative Inc.
 
 ###    * Venue Sponsor
 
-     | [株式会社RAPiC](http://rapic.jp/) |
+     | [RAPiC Inc.](http://rapic.jp/) |
 
 This meeting was presented by Rapic Inc.
 
@@ -298,7 +298,7 @@ This meeting was presented by Rapic Inc.
 
 ###    * Venue Sponsor
 
-     | [株式会社RAPiC](http://rapic.jp/) |
+     | [RAPiC Inc.](http://rapic.jp/) |
 
 This meeting was presented by Rapic Inc.
 
@@ -315,7 +315,7 @@ This meeting was presented by Rapic Inc.
 
 ###    * Venue Sponsor
 
-     | [株式会社RAPiC](http://rapic.jp/) |
+     | [RAPiC Inc.](http://rapic.jp/) |
 
 This meeting was presented by Rapic Inc.
 
@@ -332,7 +332,7 @@ This meeting was presented by Rapic Inc.
 
 ###    * Venue Sponsor
 
-     | [株式会社RAPiC](http://rapic.jp/) |
+     | [RAPiC Inc.](http://rapic.jp/) |
 
 This meeting was presented by Rapic Inc.
 
@@ -352,7 +352,7 @@ This meeting was presented by Rapic Inc.
 
   -    * Venue Sponsor
 
-     | [株式会社RAPiC](http://rapic.jp/) |
+     | [RAPiC Inc.](http://rapic.jp/) |
 
 This meeting was presented by Rapic Inc.
 
