@@ -42,7 +42,7 @@ tags: sendai-tag
      | [株式会社RAPiC](http://rapic.jp/) |
 
    * トークタイトル
-      * 「[ハンズオン] ハックリートファイターⅡWP〜世界中の最強WordPressを倒せ〜」 松本 悦宜 / Capy株式会社
+      * 「\[ハンズオン\] ハックリートファイターⅡWP〜世界中の最強WordPressを倒せ〜」 松本 悦宜 / Capy株式会社
       * 「BSidesSG 体験記」 セキュリティ初心者やまだくん
 
 ## OWASP Sendai ミーティング 37
@@ -62,7 +62,7 @@ tags: sendai-tag
      | [楽天仙台支社 |
 
    * トークタイトル
-      * 「[ハンズオン] flaws.cloudをやってみよう！ flAWSチャレンジで学ぶAWSセキュリティ」 洲崎 俊 / @tigerszk / 三井物産セキュアディレクション株式会社
+      * 「\[ハンズオン\] flaws.cloudをやってみよう！ flAWSチャレンジで学ぶAWSセキュリティ」 洲崎 俊 / @tigerszk / 三井物産セキュアディレクション株式会社
       
 ## OWASP Sendai ミーティング 35
    * 2019年6月26日(水) 18:30～20:30 [@ソシラボ](http://socilabo.com/)
