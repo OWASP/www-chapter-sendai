@@ -3,7 +3,7 @@ title: PastEvents
 displaytext: 過去のミーティング
 layout:  null
 tab: true
-order: 3
+order: 1
 tags: sendai-tag
 ---
 
@@ -33,7 +33,7 @@ tags: sendai-tag
 
    * トークタイトル
       * 「PHP Object Injection」 北原 憲 / 株式会社ラック
-      * 「Dockerを活用したDevSecOps自動化パイプライン」 小笠 貴晴 / OWASP Sendai / セキュリティイニシアティブ 
+      * 「Dockerを活用したDevSecOps自動化パイプライン」 小笠 貴晴 / OWASP Sendai / セキュリティイニシアティブ
 
 ## OWASP Sendai ミーティング 38
    * 2019年9月27日(金) 18:30～20:30 [@ソシラボ](http://socilabo.com/)
@@ -63,7 +63,7 @@ tags: sendai-tag
 
    * トークタイトル
       * 「\[ハンズオン\] flaws.cloudをやってみよう！ flAWSチャレンジで学ぶAWSセキュリティ」 洲崎 俊 / @tigerszk / 三井物産セキュアディレクション株式会社
-      
+
 ## OWASP Sendai ミーティング 35
    * 2019年6月26日(水) 18:30～20:30 [@ソシラボ](http://socilabo.com/)
    * Venue スポンサー
