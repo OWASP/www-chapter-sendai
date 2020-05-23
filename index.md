@@ -31,11 +31,7 @@ region: Asia/Pacific
 ---
 
 # OWASP Sendaiとは
-アメリカメリーランド州を本部とするOWASP Foundationの ***仙台支部*** です。
-
-### **OWASP** - Open Web Application Security Project<br>
-Webアプリケーションセキュリティに関する情報や文書、知識の共有、普及を目的としたオープンで非営利の
-オープンソース・ソフトウェアコミュニティです。
+アメリカメリーランド州を本部とするWebアプリケーションセキュリティに関する情報や文書、知識の共有、普及を目的としたオープンで非営利のオープンソース・ソフトウェアコミュニティであるOWASP Foundationの ***仙台支部*** です。
 <br>
 
 # OWASP Sendaiミーティング
