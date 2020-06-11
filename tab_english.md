@@ -17,13 +17,13 @@ contributing funds to our chapter:
 | [<img src="assets/images/securityinitiative.png" height="60px">](https://security-initiative.co.jp) |
 
 # Upcoming Meeting
-## OWASP Sendai Meeting 42
-   * 2020/5/12 19:00～21:00 Virtual Meeting
+## OWASP Sendai Meeting 43
+   * 2020/6/20(土) 16:00～18:00 Virtual Meeting
    * Talk topics
-      * 「API Security Top10 Overview」 Masaki Yamamoto (@nnasaki) / Microsoft MVP for Microsoft Azure
-      * 「OSINT at The Services for Corparate」 Oscar Orellana (@odin_200)  / OWASP Chile Chapter
+      *  TBA Vandana Verma (@InfosecVandana) / OWASP Global Board / Infosec Girls Board / IBM
    * Registration
-      * [To Connpass Resgistration Page](https://owaspsendai.connpass.com/event/175125/)
+      * [To Connpass Resgistration Page](https://owaspsendai.connpass.com/event/179386/)
+
 
 
 <!--

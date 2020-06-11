@@ -9,6 +9,29 @@ tags: sendai-tag
 
 # 過去のミーティング
 
+## [OWASP Chapters ALL Day](https://owasp.org/www-community/social/chapters_all_day/)
+
+### OWASP Chapters All Day June 6-7 - 12:00 noon (UTC) Saturday - 12:00 noon (UTC) Sunday
+
+### Organising Committee
+* Oscar Bravo Lara (United Kingdom)
+* Oscar Carlo Orellana Artigas (Chile)
+* John DiLeo - Chapter Leader (New Zealand)
+* ***Takaharu Ogasa - Chapter Leader (Sendai, Japan)***
+* Grant Ongers - Global Board of Directors (United Kingdom)
+* Vandana Verma Sehgal - Global Board of Directors (India)
+
+### [Archive](https://owasp.org/www-community/pages/social/chapters_all_day/schedule/)
+
+### [Article by portswigger](https://portswigger.net/daily-swig/owasp-chapters-all-day-conference-reunites-security-community-in-wake-of-covid-19)
+
+## OWASP Sendai ミーティング 42
+   * 2020年5月12日(火) 19:00～21:00  オンライン
+
+   * トークタイトル
+      * 「API Security Top10 Overview」 山本誠樹 (@nnasaki) / Microsoft MVP for Microsoft Azure
+      * 「OSINT at The Services for Corparate」 Oscar Orellana (@odin_200)  / OWASP Chile Chapter
+
 ## OWASP Sendai Day 2020
    * 2020年2月8日(土)～2月9日(日) [@enspace](https://www.enspace.work/)
    * Venue スポンサー

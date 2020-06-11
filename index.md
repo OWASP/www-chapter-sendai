@@ -13,20 +13,16 @@ region: Asia/Pacific
 ---
 <br>
 
----
-# <span style="color: red; ">Featured</span>
+# 次回のミーティング
 
-## [OWASP Chapters ALL Day](https://owasp.org/www-community/social/chapters_all_day/)
+## OWASP Sendai ミーティング 43
+   * 2020年6月20日(土) 16:00～18:00 (終了時間は前後します) オンライン開催
+   * トークトピック
+      *  TBA Vandana Verma (@InfosecVandana) / OWASP Global Board / Infosec Girls Board / IBM
+      <br>
 
-### OWASP Chapters All Day June 6-7 - 12:00 noon (UTC) Saturday - 12:00 noon (UTC) Sunday
-
-### Organising Committee
-* Oscar Bravo Lara (United Kingdom)
-* Oscar Carlo Orellana Artigas (Chile)
-* John DiLeo - Chapter Leader (New Zealand)
-* ***Takaharu Ogasa - Chapter Leader (Sendai, Japan)***
-* Grant Ongers - Global Board of Directors (United Kingdom)
-* Vandana Verma Sehgal - Global Board of Directors (India)
+   * 参加お申し込み
+      * [Connpassのお申し込みページへ](https://owaspsendai.connpass.com/event/179386/)
 
 ---
 
@@ -41,7 +37,6 @@ region: Asia/Pacific
 イベント開催等の情報はメーリングリストやSNSにて配信しております。
 ### [Facebook](https://www.facebook.com/owaspsendai/)
 ### [Twitter](https://twitter.com/OWASP_Sendai)
-###
 ### [~~NIKKA~~](https://www.nikka.com/guide/miyagikyo/about.html)
 
 # スピーカーとして参加をご希望の方へ
@@ -58,16 +53,6 @@ OWASP Sendaiミーティングに、スピーカーとして参加をご希望�
 | [<img src="assets/images/securityinitiative.png" height="60px">](https://security-initiative.co.jp) |
 
 <br>
-
-# 次回のミーティング
-
-## OWASP Sendai ミーティング 42
-   * 2020年5月12日(火) 19:00～21:00 (終了時間は前後します) オンライン開催
-   * トークタイトル
-      * 「API Security Top10 Overview」 山本誠樹 (@nnasaki) / Microsoft MVP for Microsoft Azure
-      * 「OSINT at The Services for Corparate」 Oscar Orellana (@odin_200)  / OWASP Chile Chapter
-   * 参加お申し込み
-      * [Connpassのお申し込みページへ](https://owaspsendai.connpass.com/event/175125/)
 
 
 <!-- Standard Chapter Page Template
