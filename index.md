@@ -15,14 +15,15 @@ region: Asia/Pacific
 
 # 次回のミーティング
 
-## OWASP Sendai ミーティング 43
-   * 2020年6月20日(土) 16:00～18:00 (終了時間は前後します) オンライン開催
+## OWASP Sendai ミーティング 44
+   * 2020年7月15日(水) 19:00～21:00 (終了時間は前後します) オンライン開催
    * トークトピック
-      *  TBA Vandana Verma (@InfosecVandana) / OWASP Global Board / Infosec Girls Board / IBM
+      *  TBA :はせがわようすけ / 株式会社セキュアスカイ・テクノロジーCTO
+      *  TBA :羽鶴 颯 / 株式会社セキュアスカイ・テクノロジー
       <br>
 
    * 参加お申し込み
-      * [Connpassのお申し込みページへ](https://owaspsendai.connpass.com/event/179386/)
+      * [Connpassのお申し込みページへ](https://owaspsendai.connpass.com/event/180854/)
 
 ---
 

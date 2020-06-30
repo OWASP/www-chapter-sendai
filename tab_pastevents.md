@@ -8,6 +8,12 @@ tags: sendai-tag
 ---
 
 # 過去のミーティング
+## OWASP Sendai ミーティング 43
+   * 2020年6月20日(土) 16:00～18:00 オンライン
+   * トークトピック
+      *  「DevSecOps deep dive」 Vandana Verma (@InfosecVandana) / OWASP Global Board / Infosec Girls Board / IBM
+      [@Youtube](https://www.youtube.com/watch?v=2aOS75_GSJU)
+      <br>
 
 ## [OWASP Chapters ALL Day](https://owasp.org/www-community/social/chapters_all_day/)
 
@@ -30,7 +36,9 @@ tags: sendai-tag
 
    * トークタイトル
       * 「API Security Top10 Overview」 山本誠樹 (@nnasaki) / Microsoft MVP for Microsoft Azure
+      [@Youtube](https://www.youtube.com/watch?v=qJ0AxFUiENUP)
       * 「OSINT at The Services for Corparate」 Oscar Orellana (@odin_200)  / OWASP Chile Chapter
+      [@Youtube](https://www.youtube.com/watch?v=WUa4WYVSSSE)
 
 ## OWASP Sendai Day 2020
    * 2020年2月8日(土)～2月9日(日) [@enspace](https://www.enspace.work/)
