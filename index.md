@@ -38,7 +38,6 @@ region: Asia/Pacific
 イベント開催等の情報はメーリングリストやSNSにて配信しております。
 ### [Facebook](https://www.facebook.com/owaspsendai/)
 ### [Twitter](https://twitter.com/OWASP_Sendai)
-### [~~NIKKA~~](https://www.nikka.com/guide/miyagikyo/about.html)
 
 # スピーカーとして参加をご希望の方へ
 
