@@ -3,7 +3,7 @@ layout: col-sidebar
 title: OWASP Sendai
 tags: sendai-tag
 level: 0
-region: Asia/Pacific
+region: Asia
 ---
 
 ![OWASP Sendai Logo](assets/images/owasp_sendai_logo.png)
