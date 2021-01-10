@@ -8,6 +8,24 @@ tags: sendai-tag
 ---
 
 # 過去のミーティング
+
+## OWASP Sendai ミーティング 45
+   * 2020年8月26日(水) 19:00～21:00 オンライン
+   * トークトピック
+      * "The 5 Ws of Threat Modelling"
+      * スピーカー：John DiLeo / OWASP New Zealand
+      * ※ 逐次通訳：小笠貴晴 / OWASP Sendai チャプターリーダー
+      <br>
+
+## OWASP Sendai ミーティング 44
+   * 2020年7月15日(水) 19:00～21:00 オンライン
+   * トークトピック
+      *  「node.jsの色々」:はせがわようすけ / 株式会社セキュアスカイ・テクノロジーCTO
+      [@Youtube](https://www.youtube.com/watch?v=eFwsi6dZtd0)
+      *  「ReDoSの色々」 :羽鶴 颯 / 株式会社セキュアスカイ・テクノロジー
+      [@Youtube](https://www.youtube.com/watch?v=788sChQ5PNc)
+      <br>
+
 ## OWASP Sendai ミーティング 43
    * 2020年6月20日(土) 16:00～18:00 オンライン
    * トークトピック
