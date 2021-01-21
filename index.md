@@ -15,15 +15,20 @@ region: Asia
 
 # 次回のミーティング
 
-## OWASP Sendai ミーティング 44
-   * 2020年7月15日(水) 19:00～21:00 (終了時間は前後します) オンライン開催
+## OWASP Sendai ミーティング 46
+   * 2020年2月17日(水) 19:00～21:00 (終了時間は前後します) オンライン開催
+      * 今回はOWASP Kyushuとのリレー開催です。19:00からOWASP Kyushu、20:00からOWASP Sendaiとなります。
+        参加登録はOWASP Sendai、Kyushuどちらからお申込みいただいても両方にご参加いただけます。Youtube LiveのURLはSendai&Kyushu共通で、どちらからでも参加可能です。
    * トークトピック
-      *  TBA :はせがわようすけ / 株式会社セキュアスカイ・テクノロジーCTO
-      *  TBA :羽鶴 颯 / 株式会社セキュアスカイ・テクノロジー
+      * TBA
+   * スケジュール
+      * 19:00 OWASP Kyushuスタート
+      * 20:00 OWASP Sendaiスタート
+      * 21:00 イベント終了（終了時間は進行状況により前後いたします）
       <br>
 
    * 参加お申し込み
-      * [Connpassのお申し込みページへ](https://owaspsendai.connpass.com/event/180854/)
+      * [Connpassのお申し込みページへ](https://owaspsendai.connpass.com/event/200709/)
 
 ---
 
