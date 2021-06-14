@@ -4,6 +4,8 @@ title: OWASP Sendai
 tags: sendai-tag
 level: 0
 region: Asia
+meeting-platform: connpass
+
 ---
 
 ![OWASP Sendai Logo](assets/images/owasp_sendai_logo.png)
