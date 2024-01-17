@@ -4,6 +4,7 @@ title: OWASP Sendai
 tags: sendai-tag
 level: 0
 region: Asia
+country: Japan
 meeting-platform: connpass
 
 ---
