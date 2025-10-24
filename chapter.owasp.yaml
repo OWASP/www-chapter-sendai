@@ -1,0 +1,23 @@
+leaders:
+  - name: Sonomi Takahashi
+    email: sonomin@owasp.org
+  - name: Takaharu Ogasa
+    email: takaharu.ogasa@owasp.org
+    github: takaharuogasa
+location:
+  country: Japan
+  country_code: JP
+  region: Miyagi Prefecture
+  city: Sendai
+  latitude: 38.2677554
+  longitude: 140.8691498
+name: OWASP Sendai
+repositories:
+  - name: www-chapter-sendai
+    url: https://github.com/OWASP/www-chapter-sendai
+    description: OWASP Foundation Web Repository
+tags:
+  - sendai-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-sendai
